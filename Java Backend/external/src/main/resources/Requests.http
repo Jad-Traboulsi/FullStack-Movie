@@ -1,0 +1,65 @@
+###
+### Movies
+### fetch movie by external ID
+POST http://localhost:8080/movies/getByExternalID
+Content-Type: application/json
+
+{"externalID":"61ccc546aa8d438faa312b9c"}
+
+
+### Movies
+### fetch movie by external ID invalid
+POST http://localhost:8080/movies/getByExternalID
+Content-Type: application/json
+
+{"externalID":"fghj"}
+
+###
+### Getting all movies
+GET http://localhost:8080/movies/getAll
+
+
+
+### Users
+### getting all users
+GET http://localhost:8081/users/getAll
+
+
+### Add a user
+POST http://localhost:8080/users/addUser
+Content-Type: application/json
+
+{ 
+  "username": "NightKnight",
+  "password": "Jad",
+  "roleName": "Viewer",
+  "name": "Jad",
+  "gender": "Male",
+  "email": "jad.tr@hotmail.com",
+  "country": "France",
+  "area": "Ile de France",
+  "city": "Vitry Sur Seine",
+  "street": "Voie Delacroix",
+  "number": "44",
+  "birthDate": "1996-04-16"
+}
+
+### SeenMovie
+### get All
+GET http://localhost:8080/seenMovies/getAll
+
+
+### get From Nightknight
+GET http://localhost:8080/seenMovies/getMoviesSeenBy/NightKnight
+
+### adding a movie to a user
+POST http://localhost:8080/seenMovies/addMovieToUser
+Content-Type: application/json
+
+{
+  "username":"NightKnight",
+  "externalId":"61ccc546aa8d438faa312b9c",
+  "date":"2022-01-19"
+}
+
+

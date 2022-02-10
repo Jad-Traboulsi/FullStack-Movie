@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 49px;
+}
+
+.app {
+    width: 100%;
+    height: 100vh;
+}
+
+.switcher {
+    cursor: pointer;
+}
+
+.title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.delete {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: red;
+    cursor: pointer;
+    font-size: .75rem;
+}
+.card{
+    
+  line-height: 100px;
+  height: 100px;
+  text-align: center;
+}
+.card-body{
+    text-align: center !important;
+  line-height: 1.5;
+  display: inline-block;
+  vertical-align: middle;
+}
+.containerForm{
+    
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin: 20px auto;
+  align-items: center;
+  justify-content: center;
+  background-color: #e8ecf2;
+  border-radius: 4px;
+}
+.error{
+
+    font-weight: 700;
+    color: #5d6168;
+    text-align: center;
+    background-color: rgba(255, 0, 0, 0.5);
+    border-radius: 5px;
+    padding: 10px;
+}
+.success{
+
+    font-weight: 700;
+    color: #5d6168;
+    text-align: center;
+    background-color: rgba(0, 255, 42, 0.5);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.form-label-title{
+    font-weight: bold;
+}
+
+.insideForm{
+    
+  background-color: #9fa3a8;
+  border-radius: 4px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.containerFormReg{
+    
+  width: 100%;
+  padding: 4% 9% 4% 9%;
+  align-items: center;
+  justify-content: center;
+  background-color: #e8ecf2;
+  border-radius: 4px;
+}
