@@ -36,6 +36,18 @@ public class AddressServiceImpl implements GenericService<Address> {
         }
     }
 
+    public void updateAddress(Address oldAddress, Address newAddress) throws AlreadyExistingException
+    {
+        oldAddress = search(oldAddress).get(0);
+
+        if (!hasDuplicate(newAddress)) {
+            addressRep.updateAddress(newAddress.getCountry(),newAddress.getArea(),newAddress.getCity(),newAddress.getStreet(),newAddress.getNumber(),oldAddress.getCountry(),oldAddress.getArea(),oldAddress.getCity(),oldAddress.getStreet(),oldAddress.getNumber());
+            logger.info("Address Updated");
+        } else {
+            throw new AlreadyExistingException("Address already exists");
+        }
+    }
+
     public List<Address> search(Address address){
         return addressRep.searchAddress(address.getArea(),address.getCity(), address.getCountry(), address.getNumber(), address.getStreet());
     }

@@ -49,28 +49,28 @@ const handleId = (e) => {
             className="col col-quarter txt-center"
             onClick={handleId}
           >
-            <div className="card relative">
+            <div className="card relative" id={movies[0]._id}>
               <div className="card-body" id={movies[0]._id}>
                 {movies[0].title}
               </div>
             </div>
           </div>
           <div className="col col-quarter txt-center" onClick={handleId}>
-            <div className="card relative">
+            <div className="card relative" id={movies[1]._id}>
               <div className="card-body" id={movies[1]._id}>
                 {movies[1].title}
               </div>
             </div>
           </div>
           <div className="col col-quarter txt-center" onClick={handleId}>
-            <div className="card relative">
+            <div className="card relative" id={movies[2]._id}>
               <div className="card-body" id={movies[2]._id}>
                 {movies[2].title}
               </div>
             </div>
           </div>
           <div className="col col-quarter txt-center" onClick={handleId}>
-            <div className="card relative">
+            <div className="card relative" id={movies[3]._id}>
               <div className="card-body" id={movies[3]._id}>
                 {movies[3].title}
               </div>

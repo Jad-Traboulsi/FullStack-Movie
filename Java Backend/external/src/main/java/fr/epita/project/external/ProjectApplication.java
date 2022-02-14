@@ -25,7 +25,7 @@ public class ProjectApplication {
         return new WebMvcConfigurer() {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
-                registry.addMapping("/**").allowedOrigins("http://localhost:3000").maxAge(3600);
+                registry.addMapping("/**").allowedHeaders("*").allowedOrigins("http://localhost:3000").maxAge(3600);
             }
         };
     }

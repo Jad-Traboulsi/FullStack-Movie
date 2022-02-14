@@ -1,50 +1,48 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-    margin-top: 49px;
+  margin-top: 49px;
 }
 
 .app {
-    width: 100%;
-    height: 100vh;
+  width: 100%;
+  height: 100vh;
 }
 
 .switcher {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .title {
-    text-align: center;
-    font-size: 2rem;
-    font-weight: bold;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
 }
 
 .delete {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    color: red;
-    cursor: pointer;
-    font-size: .75rem;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: red;
+  cursor: pointer;
+  font-size: 0.75rem;
 }
-.card{
-    
+.card {
   line-height: 100px;
   height: 100px;
   text-align: center;
 }
-.card-body{
-    text-align: center !important;
+.card-body {
+  text-align: center !important;
   line-height: 1.5;
   display: inline-block;
   vertical-align: middle;
 }
-.containerForm{
-    
+.containerForm {
   display: flex;
   flex-direction: column;
   width: 60%;
@@ -56,31 +54,28 @@ body {
   background-color: #e8ecf2;
   border-radius: 4px;
 }
-.error{
-
-    font-weight: 700;
-    color: #5d6168;
-    text-align: center;
-    background-color: rgba(255, 0, 0, 0.5);
-    border-radius: 5px;
-    padding: 10px;
+.error {
+  font-weight: 700;
+  color: #5d6168;
+  text-align: center;
+  background-color: rgba(255, 0, 0, 0.5);
+  border-radius: 5px;
+  padding: 10px;
 }
-.success{
-
-    font-weight: 700;
-    color: #5d6168;
-    text-align: center;
-    background-color: rgba(0, 255, 42, 0.5);
-    border-radius: 5px;
-    padding: 10px;
+.success {
+  font-weight: 700;
+  color: #5d6168;
+  text-align: center;
+  background-color: rgba(0, 255, 42, 0.5);
+  border-radius: 5px;
+  padding: 10px;
 }
 
-.form-label-title{
-    font-weight: bold;
+.form-label-title {
+  font-weight: bold;
 }
 
-.insideForm{
-    
+.insideForm {
   background-color: #9fa3a8;
   border-radius: 4px;
   padding-top: 40px;
@@ -89,12 +84,49 @@ body {
   padding-right: 20px;
 }
 
-.containerFormReg{
-    
+.containerFormReg {
   width: 100%;
   padding: 4% 9% 4% 9%;
   align-items: center;
   justify-content: center;
   background-color: #e8ecf2;
   border-radius: 4px;
+}
+.movieTitle {
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 700;
+}
+.metadataWrapper {
+  margin-top: 16px;
+  display: block;
+}
+.metadataItem {
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 500;
+  display: inline-block;
+}
+.metdataSeparator {
+  margin: 0 4px;
+}
+.rating {
+  border: 1px solid;
+  padding: 0 5px;
+}
+.flex {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.flex-child {
+    -webkit-box-flex: 1 1 auto;
+    -moz-box-flex:  1 1 auto;
+    -webkit-flex:  1 1 auto;
+    -ms-flex:  1 1 auto;
+    flex:  1 1 auto;
+    margin: 5px 5px 5px 5px;
 }

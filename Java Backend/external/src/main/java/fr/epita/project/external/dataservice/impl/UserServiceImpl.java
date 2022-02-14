@@ -62,6 +62,31 @@ public class UserServiceImpl implements GenericService<fr.epita.project.internal
         }
     }
 
+    public void updateUser(String username, String email, fr.epita.project.internal.entities.User newUser) throws AlreadyExistingException, 
+            LinkingException{
+       fr.epita.project.internal.entities.User user = userRepository.findById(username).orElseThrow();
+       if(hasDuplicate(newUser) && !newUser.getUsername().equals(username))
+       {
+           throw new AlreadyExistingException("Username already exists");
+       }
+       else{
+        if (contactService.hasDuplicate(newUser.getContact()) && !newUser.getContact().getEmail().equals(user.getContact().getEmail())) {
+
+            throw new LinkingException("Contact already has a username");
+        }
+        else{
+        userRepository.updateUser(username, newUser.getUsername(), 
+                BCrypt.hashpw(newUser.getPassword(), BCrypt.gensalt(10)));
+            contactService.updateContact(newUser.getContact(), email);
+        }
+       }
+        logger.info("User Updated");
+
+    }
+
+    public fr.epita.project.internal.entities.User getUser(String username) {
+        return userRepository.findById(username).orElseThrow();
+    }
 
     @Override
     public List<fr.epita.project.internal.entities.User> getAll() {
@@ -93,4 +118,5 @@ public class UserServiceImpl implements GenericService<fr.epita.project.internal
         // TODO -- Fetch Roles as Well
         return new User(dbUser.getUsername(), dbUser.getPassword(), new ArrayList<>());
     }
+    
 }

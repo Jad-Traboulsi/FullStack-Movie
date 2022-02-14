@@ -6,6 +6,7 @@ const userState = atom({
     isAuth: false,
     user: null,
   }, // default value (aka initial value)
+  
 });
 
 export default userState;

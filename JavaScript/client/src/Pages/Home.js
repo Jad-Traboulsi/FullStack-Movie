@@ -15,7 +15,6 @@ const Home = () => {
         {user.isAuth && <Hello name={user.username} />}
         {!user.isAuth && <Hello name="" />}
         <Movies/>
-        {user.isAuth && <Watched/>}
       </div>
     );
 }

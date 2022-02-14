@@ -4,14 +4,16 @@ public class JWTResponse {
 
     private String jwtToken;
     private String username;
+    private String email;
 
 
     public JWTResponse() {
     }
 
-    public JWTResponse(String jwtToken, String username) {
+    public JWTResponse(String jwtToken, String username, String email) {
         this.jwtToken = jwtToken;
         this.username = username;
+        this.email = email;
     }
 
     public String getJwtToken() {
@@ -29,6 +31,16 @@ public class JWTResponse {
     public void setUsername(String username) {
         this.username = username;
     }
+    
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+
 
     
 }

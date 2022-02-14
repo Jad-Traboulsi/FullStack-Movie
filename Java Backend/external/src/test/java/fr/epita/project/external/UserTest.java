@@ -52,6 +52,22 @@ public class UserTest {
         userService.add(user1);
 
     }
+@Test
+    public void updateUser(){
+        
+        User user2 = new User("girl3",
+                "Password",
+                new Role("Viewer"),
+                new Contact("Test", "Male", "girl1",
+                        new Address("Albania", "a", "v", "2x", "33"),
+                        Date.valueOf("1996-04-16")));
+        try{                
+        userService.updateUser("girl3","girl1",user2);
+        }
+        catch(Exception e){
+            logger.info(e.toString());
+        }
+    }
 
     @Test
     public void getAllUsers() {

@@ -8,7 +8,6 @@ import userState from "../atoms/userAtoms"
 
 const Default = ({children}) => {
     const [user] = useRecoilState(userState)
-    console.log(user);
 
     return (<>
         <nav className="bg-blue-800 navbar-dark navbar navbar-fixed-top">
@@ -29,7 +28,7 @@ const Default = ({children}) => {
                         { !user.isAuth && <li className="navbar-item"><Link className="navbar-link" to='/register'>Register</Link></li> }
                         { user.isAuth && <li className="navbar-item"><Link className="navbar-link" to ='/account'>{user.username}</Link></li>}
                         { user.isAuth && <li className="navbar-item"><Link className="navbar-link" to ='/logout'>Logout</Link></li>}
-                        <li className="navbar-item"><SwitcherMode /></li>
+                        {/* <li className="navbar-item"><SwitcherMode /></li> */}
                     </ul>
                 </div>
             </div>

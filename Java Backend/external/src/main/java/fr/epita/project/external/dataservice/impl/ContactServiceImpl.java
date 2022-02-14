@@ -39,16 +39,38 @@ public class ContactServiceImpl implements GenericService<Contact> {
 
                 addressService.add(c.getAddress());
             } else {
-                    logger.info("Address already existing, linking to contact");
+                logger.info("Address already existing, linking to contact");
 
-                    c.setAddress(addressService.search(c.getAddress()).get(0));
+                c.setAddress(addressService.search(c.getAddress()).get(0));
 
             }
             contactRepository.save(c);
 
             logger.info("Contact saved");
         } else
-            throw new AlreadyExistingException("Contact already exists");
+            throw new AlreadyExistingException("Email already exists");
+    }
+
+    public void updateContact(Contact newContact, String email) throws AlreadyExistingException {
+
+        if (hasDuplicate(newContact) && !newContact.getEmail().equals(email)) {
+            throw new AlreadyExistingException("Email already exists");
+        } else {
+
+            if (!addressService.hasDuplicate(newContact.getAddress())) {
+                logger.info("Address not found, creating address");
+
+                addressService.add(newContact.getAddress());
+            } else {
+                logger.info("Address already existing, linking to contact");
+
+            }
+            newContact.setAddress(addressService.search(newContact.getAddress()).get(0));
+            contactRepository.updateContact(email, newContact.getName(), newContact.getGender(), newContact.getEmail(),
+                    newContact.getBirthDate(), newContact.getAddress().getId());
+
+            logger.info("Contact updated");
+        }
     }
 
     public List<Contact> search(Contact c) {

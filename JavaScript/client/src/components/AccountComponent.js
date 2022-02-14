@@ -1,5 +1,8 @@
 import React, { useEffect, useState, useMemo } from "react";
 import axios from "axios";
+import { useRecoilState } from "recoil";
+
+import userState from "../atoms/userAtoms";
 
 import { Link, useNavigate } from "react-router-dom";
 import DatePicker from "react-datepicker";
@@ -8,21 +11,25 @@ import countryList from "react-select-country-list";
 import Select from "react-select";
 
 import "react-datepicker/dist/react-datepicker.css";
+const AccountComponent = () => {
 
-const RegisterComponent = () => {
+
+  const [user, setUser] = useRecoilState(userState);
   const [state, setState] = useState({
     error: false,
     success: false,
     msg: "",
   });
   const [country, setCountry] = useState("");
+  const [editState, setEditState] = useState(false);
   const options = useMemo(() => countryList().getData(), []);
 
   const [startDate, setStartDate] = useState(new Date());
 
   const [form, setForm] = useState({
+    
     username: "",
-    password: "",
+    password: "", 
 
     roleName: "Viewer",
 
@@ -37,28 +44,54 @@ const RegisterComponent = () => {
     street: "",
     number: "",
   });
+
+
   const handlerOnChange = (event) => {
     const { value, name } = event.target;
     setForm({ ...form, [name]: value });
   };
-  
+
   let navigate = useNavigate();
 
   const handlerOnSubmit = async (event) => {
+    
     event.preventDefault();
     form.birthDate = dayjs(startDate).format("YYYY-MM-DD");
     form.country = country.label;
+    form.oldEmail = user.email;
+    form.oldUsername = user.username;
+    console.log(form);
+    console.log(user)
     window.scrollTo(0, 0);
     setState({ error: false, success: false, msg: "" });
     try {
-      const res = await axios.post(
-        process.env.REACT_APP_JAVA_API + "/users/addUser",
-        form
+      const res = await axios.patch(
+        process.env.REACT_APP_JAVA_API + "/users/updateUser",
+        form,
+        {
+          withCredentials: true,
+          headers: {
+            Authorization: user.token,
+          },
+        }
       );
 
       console.log(res.data);
-      setState({ error: false, success: true, msg: "Account Created! Redirecting to login page" });
+      setState({
+        error: false,
+        success: true,
+        msg: "Account Updated! Please sign back in again",
+      });
+      
+
       const timer = setTimeout(() => {
+
+      setUser({
+        isAuth: false,
+        username: "",
+        email: "",
+        token: ""
+      });
         navigate("/login");
       }, 2000);
     } catch (error) {
@@ -67,10 +100,57 @@ const RegisterComponent = () => {
     }
   };
 
-  // useEffect(() => {}, [form.email, form.password]);
+
+  const getInfo = async () => {
+    try {
+      console.log(user);
+      const res = await axios.get(
+        process.env.REACT_APP_JAVA_API + "/users/getInfo/" + user.username,
+        {
+          withCredentials: true,
+          headers: {
+            Authorization: user.token,
+          },
+        }
+      );
+      setStartDate(new Date(res.data.birthDate));
+      setCountry({
+        label: res.data.country,
+        value: countryList().getValue(res.data.country),
+      });
+      setForm(res.data);
+    } catch (error) {
+      console.log(error.response.data);
+    }
+  };
+  const edit = () => {
+    if (editState) setEditState(false);
+    else setEditState(true);
+  };
+  const cancel = () => {
+    navigate("/");
+  };
+
+
+  useEffect(() => {
+    getInfo();
+  }, []);
 
   return (
     <div className="containerFormReg">
+      {!editState && (
+        <div className="flex">
+          <input
+            type="button"
+            className="flex-child btn bg-purple-600 
+            txt-white-100 
+            hover:bg-purple-900 
+            btn-rounded"
+            value="Edit"
+            onClick={edit}
+          />
+        </div>
+      )}
       {state.error && <div className="error">{state.msg}</div>}
       {state.success && <div className="success">{state.msg}</div>}
       <br />
@@ -90,6 +170,7 @@ const RegisterComponent = () => {
               name="username"
               placeholder="Username"
               required={true}
+              disabled={!editState}
             />
           </div>
 
@@ -106,6 +187,7 @@ const RegisterComponent = () => {
               name="password"
               placeholder="Password"
               required={true}
+              disabled={!editState}
             />
           </div>
         </div>
@@ -127,6 +209,7 @@ const RegisterComponent = () => {
               name="name"
               placeholder="Name"
               required={true}
+              disabled={!editState}
             />
           </div>
 
@@ -138,6 +221,8 @@ const RegisterComponent = () => {
               onChange={handlerOnChange}
               name="gender"
               className="form-select"
+              value={form.gender}
+              disabled={!editState}
             >
               <option defaultValue="Male">Male</option>
               <option value="Female">Female</option>
@@ -157,6 +242,7 @@ const RegisterComponent = () => {
               name="email"
               placeholder="Email"
               required={true}
+              disabled={!editState}
             />
           </div>
 
@@ -170,6 +256,7 @@ const RegisterComponent = () => {
               name="birthDate"
               dateFormat={"dd/MM/yyyy"}
               onChange={(date) => setStartDate(date)}
+              disabled={!editState}
             />
           </div>
         </div>
@@ -184,7 +271,10 @@ const RegisterComponent = () => {
             <Select
               options={options}
               value={country}
-              onChange={(c) => setCountry(c)}
+              isDisabled={!editState}
+              onChange={(c) => {
+                setCountry(c);
+              }}
             />
           </div>
           <div className="form-group">
@@ -200,6 +290,7 @@ const RegisterComponent = () => {
               name="area"
               placeholder="Area"
               required={true}
+              disabled={!editState}
             />
           </div>
           <div className="form-group">
@@ -215,6 +306,7 @@ const RegisterComponent = () => {
               name="city"
               placeholder="City"
               required={true}
+              disabled={!editState}
             />
           </div>
           <div className="form-group">
@@ -230,6 +322,7 @@ const RegisterComponent = () => {
               name="street"
               placeholder="Street"
               required={true}
+              disabled={!editState}
             />
           </div>
 
@@ -247,26 +340,36 @@ const RegisterComponent = () => {
               name="number"
               placeholder="Number"
               required={true}
+              disabled={!editState}
             />
           </div>
         </div>
         <br />
-        <div className="flex">
-        <input
-          type="submit"
-          className="flex-child btn bg-purple-600 
+        {editState && (
+          <div className="flex">
+            <input
+              type="submit"
+              className="flex-child btn bg-purple-600 
             txt-white-100 
             hover:bg-purple-900 
             btn-rounded"
-          value="Sign Up"
-        />
-        </div>
-        <div className="form-group txt-center txt-small">
-          <Link to="/login">Already have an account ?</Link>
-        </div>
+              value="Update"
+            />
+
+            <input
+              type="button"
+              className="flex-child btn bg-purple-600 
+            txt-white-100 
+            hover:bg-purple-900 
+            btn-rounded"
+              value="Cancel"
+              onClick={cancel}
+            />
+          </div>
+        )}
       </form>
     </div>
   );
 };
 
-export default RegisterComponent;
+export default AccountComponent;

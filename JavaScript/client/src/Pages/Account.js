@@ -1,13 +1,31 @@
 import React from "react";
-import ListMessages from "../components/ListMessages";
-
+import AccountComponent from "../components/AccountComponent";
+import userState from "../atoms/userAtoms";
+import { useRecoilState } from "recoil";
+import { Link } from "react-router-dom";
 
 const Account = () => {
+  const [user, setUser] = useRecoilState(userState);
   return (
     <>
-    <div className="title">List of messages</div>
-        
-    <ListMessages />
+      {user.isAuth && (
+        <div>
+          <div className="title">Account Details</div>
+          <br />
+          <AccountComponent />
+        </div>
+      )}
+      {!user.isAuth && (
+        <div className="error">
+          <span>
+            You arent logged in
+            <br />
+            <br />
+            <br />
+            <Link to="/login">Log In</Link>
+          </span>
+        </div>
+      )}
     </>
   );
 };

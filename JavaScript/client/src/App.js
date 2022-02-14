@@ -8,7 +8,7 @@ import Register from "./Pages/Register";
 import Account from "./Pages/Account";
 import Default from "./layouts/Default";
 import MovieDetail from "./Pages/MovieDetail";
-
+import Watched from "./Pages/Watched";
 const App = () => {
   const [{ theme }] = useContext(ThemeContext);
 
@@ -16,7 +16,6 @@ const App = () => {
     <BrowserRouter>
       <div className="app" style={theme}>
         <Routes>
-          
           <Route
             path="/"
             element={
@@ -62,6 +61,14 @@ const App = () => {
             element={
               <Default>
                 <MovieDetail />
+              </Default>
+            }
+          />
+          <Route
+            path="/moviesWatched"
+            element={
+              <Default>
+                <Watched />
               </Default>
             }
           />

@@ -2,6 +2,7 @@ package fr.epita.project.external.dataservice.impl;
 
 import fr.epita.project.external.dataservice.GenericService;
 import fr.epita.project.external.exceptions.LinkingException;
+import fr.epita.project.external.exceptions.NotWatchedException;
 import fr.epita.project.internal.entities.Movie;
 import fr.epita.project.internal.entities.SeenMovie;
 import fr.epita.project.internal.entities.User;
@@ -44,9 +45,27 @@ public class SeenMovieServiceImpl implements GenericService<SeenMovie> {
         return seenMovieRepository.findAll();
     }
 
-    public List<SeenMovie> getAllMoviesWatchedByUser(String username) throws NoSuchElementException{
+    public List<SeenMovie> getAllMoviesWatchedByUser(String username) throws NoSuchElementException {
         User user = userServiceImpl.getUserByUsername(username);
         return seenMovieRepository.getMoviesSeenByUser(user);
+    }
+    
+    public boolean getIfMovieWatchedByUser(String username, String externalID) throws NoSuchElementException {
+        List<SeenMovie> moviesWatchedByUser = getAllMoviesWatchedByUser(username);
+        for (SeenMovie seenMovie : moviesWatchedByUser) {
+            if (seenMovie.getMovie().getExternal_id().equals(externalID))
+                return true;
+        }
+        return false;
+    }
+
+    public Date getWhenMovieWatchedByUser(String username, String externalID) throws NoSuchElementException,NotWatchedException {
+        List<SeenMovie> moviesWatchedByUser = getAllMoviesWatchedByUser(username);
+        for (SeenMovie seenMovie : moviesWatchedByUser) {
+            if (seenMovie.getMovie().getExternal_id().equals(externalID))
+                return seenMovie.getDate();
+        }
+        throw new NotWatchedException("Movie Not Watched");
     }
 
     @Override

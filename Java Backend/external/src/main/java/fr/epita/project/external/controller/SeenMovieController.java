@@ -18,7 +18,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/seenMovies")
 @CrossOrigin(origins = "http://localhost:3000", allowCredentials = "true", allowedHeaders = "*", methods = {
-        RequestMethod.GET, RequestMethod.POST })
+        RequestMethod.GET, RequestMethod.POST})
 public class SeenMovieController {
     @Autowired
     SeenMovieServiceImpl seenMovieServiceImpl;
@@ -35,6 +35,26 @@ public class SeenMovieController {
             return ResponseEntity.ok().body(result);
         } catch (Exception e) {
             return ResponseEntity.status(500).body("User doesn't Exist");
+        }
+    }
+
+    @GetMapping("/getIfMovieSeen/{username}/{externalID}")
+    public ResponseEntity getIfMovieSeen(@PathVariable String username, @PathVariable String externalID) {
+        try {
+            boolean watched = seenMovieServiceImpl.getIfMovieWatchedByUser(username, externalID);
+            return ResponseEntity.ok().body(watched);
+        } catch (Exception e) {
+            return ResponseEntity.status(500).body(e.getMessage());
+        }
+    }
+
+    @GetMapping("/getWhenMovieSeen/{username}/{externalID}")
+    public ResponseEntity getWhenMovieSeen(@PathVariable String username, @PathVariable String externalID) {
+        try {
+            Date watched = seenMovieServiceImpl.getWhenMovieWatchedByUser(username, externalID);
+            return ResponseEntity.ok().body(watched);
+        } catch (Exception e) {
+            return ResponseEntity.status(500).body(e.getMessage());
         }
     }
 

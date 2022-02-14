@@ -42,9 +42,9 @@ const LoginComponent = () => {
       setUser({
         isAuth: true,
         username: res.data.username,
+        email:res.data.email,
         token: "Bearer "+res.data.jwtToken,
       });
-
       console.log(res.data);
 
       navigate("/");
@@ -92,14 +92,16 @@ const LoginComponent = () => {
               required={true}
             />
           </div>
-          <input
-            type="submit"
-            className="btn bg-purple-600 
-            txt-white-100 
-            hover:bg-purple-900 
-            btn-rounded"
-            value="Log In"
-          />
+          <div className="flex">
+            <input
+              type="submit"
+              className="flex-child btn bg-purple-600 
+              txt-white-100 
+              hover:bg-purple-900 
+              btn-rounded"
+              value="Log In"
+            />
+          </div>
           <div className="form-group txt-center txt-small">
             <Link to="/register">Don't have any account ?</Link>
           </div>
