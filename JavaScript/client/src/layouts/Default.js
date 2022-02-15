@@ -16,6 +16,7 @@ const Default = ({children}) => {
                     <ul className="navbar-menu navbar-menu-left">
                         <li className="navbar-item">
                             <Link className="navbar-link" to="/">Home</Link>
+                            <Link className="navbar-link" to="/movies">Our Movies</Link>
                         </li>
                         
                         { user.isAuth && <li className="navbar-item">

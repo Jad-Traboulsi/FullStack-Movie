@@ -13,18 +13,12 @@ const Logout = () => {
     const logout = async () => {
       if (user.isAuth) {
         try {
-          const res = await axios.get(
-            `${process.env.REACT_APP_API_URL}/users/logout`,
-            {
-              withCredentials:true
-            }
-          );
-
           setUser({
             isAuth: false,
-            user: null,
+            username: "",
+            email: "",
+            token: "",
           });
-          console.log(res.data);
         } catch (error) {
           console.log(error.response.data);
         }

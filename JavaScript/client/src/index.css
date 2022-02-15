@@ -32,9 +32,10 @@ body {
   font-size: 0.75rem;
 }
 .card {
-  line-height: 100px;
-  height: 100px;
+  line-height: 150px;
+  height: 150px;
   text-align: center;
+  margin-bottom: 12px;
 }
 .card-body {
   text-align: center !important;
@@ -129,4 +130,10 @@ body {
     -ms-flex:  1 1 auto;
     flex:  1 1 auto;
     margin: 5px 5px 5px 5px;
+}
+.search
+{
+  border: 3px solid grey;
+  padding: 8px 8px 8px 8px;
+  border-radius: 4px;
 }

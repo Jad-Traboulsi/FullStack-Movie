@@ -9,6 +9,7 @@ import Account from "./Pages/Account";
 import Default from "./layouts/Default";
 import MovieDetail from "./Pages/MovieDetail";
 import Watched from "./Pages/Watched";
+import Movies from "./Pages/Movies";
 const App = () => {
   const [{ theme }] = useContext(ThemeContext);
 
@@ -69,6 +70,14 @@ const App = () => {
             element={
               <Default>
                 <Watched />
+              </Default>
+            }
+          />
+          <Route
+            path="/movies"
+            element={
+              <Default>
+                <Movies />
               </Default>
             }
           />
