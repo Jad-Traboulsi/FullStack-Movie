@@ -1,0 +1,3988 @@
+[{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a0e"
+  },
+  "title": "Dick Johnson Is Dead",
+  "director": "Kirsten Johnson",
+  "date_added": "25-Sep-21",
+  "release_year": "2020",
+  "rating": "PG-13",
+  "category": "Documentaries"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a0f"
+  },
+  "title": "My Little Pony: A New Generation",
+  "director": "Robert Cullen, José Luis Ucha",
+  "date_added": "24-Sep-21",
+  "release_year": "2021",
+  "rating": "PG",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a10"
+  },
+  "title": "Sankofa",
+  "director": "Haile Gerima",
+  "date_added": "24-Sep-21",
+  "release_year": "1993",
+  "rating": "TV-MA",
+  "category": "Dramas, Independent Movies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a11"
+  },
+  "title": "The Starling",
+  "director": "Theodore Melfi",
+  "date_added": "24-Sep-21",
+  "release_year": "2021",
+  "rating": "PG-13",
+  "category": "Comedies, Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a12"
+  },
+  "title": "Je Suis Karl",
+  "director": "Christian Schwochow",
+  "date_added": "23-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a13"
+  },
+  "title": "Confessions of an Invisible Girl",
+  "director": "Bruno Garotti",
+  "date_added": "22-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-PG",
+  "category": "Children & Family Movies, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a14"
+  },
+  "title": "Europe's Most Dangerous Man: Otto Skorzeny in Spain",
+  "director": "Pedro de Echave García, Pablo Azorín Williams",
+  "date_added": "22-Sep-21",
+  "release_year": "2020",
+  "rating": "TV-MA",
+  "category": "Documentaries, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a15"
+  },
+  "title": "Intrusion",
+  "director": "Adam Salky",
+  "date_added": "22-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a16"
+  },
+  "title": "Avvai Shanmughi",
+  "director": "K.S. Ravikumar",
+  "date_added": "21-Sep-21",
+  "release_year": "1996",
+  "rating": "TV-PG",
+  "category": "Comedies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a17"
+  },
+  "title": "Go! Go! Cory Carson: Chrissy Takes the Wheel",
+  "director": "Alex Woo, Stanley Moore",
+  "date_added": "21-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-Y",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a18"
+  },
+  "title": "Jeans",
+  "director": "S. Shankar",
+  "date_added": "21-Sep-21",
+  "release_year": "1998",
+  "rating": "TV-14",
+  "category": "Comedies, International Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a19"
+  },
+  "title": "Minsara Kanavu",
+  "director": "Rajiv Menon",
+  "date_added": "21-Sep-21",
+  "release_year": "1997",
+  "rating": "TV-PG",
+  "category": "Comedies, International Movies, Music & Musicals"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a1a"
+  },
+  "title": "Grown Ups",
+  "director": "Dennis Dugan",
+  "date_added": "20-Sep-21",
+  "release_year": "2010",
+  "rating": "PG-13",
+  "category": "Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a1b"
+  },
+  "title": "Dark Skies",
+  "director": "Scott Stewart",
+  "date_added": "19-Sep-21",
+  "release_year": "2013",
+  "rating": "PG-13",
+  "category": "Horror Movies, Sci-Fi & Fantasy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a1c"
+  },
+  "title": "Paranoia",
+  "director": "Robert Luketic",
+  "date_added": "19-Sep-21",
+  "release_year": "2013",
+  "rating": "PG-13",
+  "category": "Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a1d"
+  },
+  "title": "Ankahi Kahaniya",
+  "director": "Ashwiny Iyer Tiwari, Abhishek Chaubey, Saket Chaudhary",
+  "date_added": "17-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Dramas, Independent Movies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a1e"
+  },
+  "title": "The Father Who Moves Mountains",
+  "director": "Daniel Sandu",
+  "date_added": "17-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Dramas, International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a1f"
+  },
+  "title": "The Stronghold",
+  "director": "Cédric Jimenez",
+  "date_added": "17-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Action & Adventure, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a20"
+  },
+  "title": "Birth of the Dragon",
+  "director": "George Nolfi",
+  "date_added": "16-Sep-21",
+  "release_year": "2017",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a21"
+  },
+  "title": "Jaws",
+  "director": "Steven Spielberg",
+  "date_added": "16-Sep-21",
+  "release_year": "1975",
+  "rating": "PG",
+  "category": "Action & Adventure, Classic Movies, Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a22"
+  },
+  "title": "Jaws 2",
+  "director": "Jeannot Szwarc",
+  "date_added": "16-Sep-21",
+  "release_year": "1978",
+  "rating": "PG",
+  "category": "Dramas, Horror Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a23"
+  },
+  "title": "Jaws 3",
+  "director": "Joe Alves",
+  "date_added": "16-Sep-21",
+  "release_year": "1983",
+  "rating": "PG",
+  "category": "Action & Adventure, Horror Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a24"
+  },
+  "title": "Jaws: The Revenge",
+  "director": "Joseph Sargent",
+  "date_added": "16-Sep-21",
+  "release_year": "1987",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Horror Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a25"
+  },
+  "title": "My Heroes Were Cowboys",
+  "director": "Tyler Greco",
+  "date_added": "16-Sep-21",
+  "release_year": "2021",
+  "rating": "PG",
+  "category": "Documentaries"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a26"
+  },
+  "title": "Safe House",
+  "director": "Daniel Espinosa",
+  "date_added": "16-Sep-21",
+  "release_year": "2012",
+  "rating": "R",
+  "category": "Action & Adventure"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a27"
+  },
+  "title": "Training Day",
+  "director": "Antoine Fuqua",
+  "date_added": "16-Sep-21",
+  "release_year": "2001",
+  "rating": "R",
+  "category": "Dramas, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a28"
+  },
+  "title": "InuYasha the Movie 2: The Castle Beyond the Looking Glass",
+  "director": "Toshiya Shinohara",
+  "date_added": "15-Sep-21",
+  "release_year": "2002",
+  "rating": "TV-14",
+  "category": "Action & Adventure, Anime Features, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a29"
+  },
+  "title": "InuYasha the Movie 3: Swords of an Honorable Ruler",
+  "director": "Toshiya Shinohara",
+  "date_added": "15-Sep-21",
+  "release_year": "2003",
+  "rating": "TV-14",
+  "category": "Action & Adventure, Anime Features, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a2a"
+  },
+  "title": "InuYasha the Movie 4: Fire on the Mystic Island",
+  "director": "Toshiya Shinohara",
+  "date_added": "15-Sep-21",
+  "release_year": "2004",
+  "rating": "TV-PG",
+  "category": "Action & Adventure, Anime Features, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a2b"
+  },
+  "title": "InuYasha the Movie: Affections Touching Across Time",
+  "director": "Toshiya Shinohara",
+  "date_added": "15-Sep-21",
+  "release_year": "2001",
+  "rating": "TV-PG",
+  "category": "Action & Adventure, Anime Features, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a2c"
+  },
+  "title": "Naruto Shippuden the Movie: Blood Prison",
+  "director": "Masahiko Murata",
+  "date_added": "15-Sep-21",
+  "release_year": "2011",
+  "rating": "TV-14",
+  "category": "Action & Adventure, Anime Features, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a2d"
+  },
+  "title": "Naruto Shippûden the Movie: Bonds",
+  "director": "Hajime Kamegaki",
+  "date_added": "15-Sep-21",
+  "release_year": "2008",
+  "rating": "TV-PG",
+  "category": "Action & Adventure, Anime Features, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a2e"
+  },
+  "title": "Naruto Shippûden the Movie: The Will of Fire",
+  "director": "Masahiko Murata",
+  "date_added": "15-Sep-21",
+  "release_year": "2009",
+  "rating": "TV-PG",
+  "category": "Action & Adventure, Anime Features, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a2f"
+  },
+  "title": "Naruto Shippuden: The Movie",
+  "director": "Hajime Kamegaki",
+  "date_added": "15-Sep-21",
+  "release_year": "2007",
+  "rating": "TV-PG",
+  "category": "Action & Adventure, Anime Features, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a30"
+  },
+  "title": "Naruto Shippuden: The Movie: The Lost Tower",
+  "director": "Masahiko Murata",
+  "date_added": "15-Sep-21",
+  "release_year": "2010",
+  "rating": "TV-14",
+  "category": "Action & Adventure, Anime Features, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a31"
+  },
+  "title": "Naruto the Movie 2: Legend of the Stone of Gelel",
+  "director": "Hirotsugu Kawasaki",
+  "date_added": "15-Sep-21",
+  "release_year": "2005",
+  "rating": "TV-PG",
+  "category": "Action & Adventure, Anime Features, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a32"
+  },
+  "title": "Naruto the Movie 3: Guardians of the Crescent Moon Kingdom",
+  "director": "Toshiyuki Tsuru",
+  "date_added": "15-Sep-21",
+  "release_year": "2006",
+  "rating": "TV-PG",
+  "category": "Action & Adventure, Anime Features, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a33"
+  },
+  "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+  "director": "Tensai Okamura",
+  "date_added": "15-Sep-21",
+  "release_year": "2004",
+  "rating": "TV-PG",
+  "category": "Action & Adventure, Anime Features, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a34"
+  },
+  "title": "Nightbooks",
+  "director": "David Yarovesky",
+  "date_added": "15-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-PG",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a35"
+  },
+  "title": "Schumacher",
+  "director": "Hanns-Bruno Kammertöns, Vanessa Nöcker, Michael Wech",
+  "date_added": "15-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Documentaries, International Movies, Sports Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a36"
+  },
+  "title": "A StoryBots Space Adventure",
+  "director": "David A. Vargas",
+  "date_added": "14-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-Y",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a37"
+  },
+  "title": "King of Boys",
+  "director": "Kemi Adetiba",
+  "date_added": "14-Sep-21",
+  "release_year": "2018",
+  "rating": "TV-MA",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a38"
+  },
+  "title": "You vs. Wild: Out Cold",
+  "director": "Ben Simms",
+  "date_added": "14-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-G",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a39"
+  },
+  "title": "Little Singham - Black Shadow",
+  "director": "Prakash Satam",
+  "date_added": "11-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a3a"
+  },
+  "title": "Tughlaq Durbar",
+  "director": "Delhiprasad Deenadayalan",
+  "date_added": "11-Sep-21",
+  "release_year": "2020",
+  "rating": "TV-14",
+  "category": "Comedies, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a3b"
+  },
+  "title": "Tughlaq Durbar (Telugu)",
+  "director": "Delhiprasad Deenadayalan",
+  "date_added": "11-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Comedies, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a3c"
+  },
+  "title": "Firedrake the Silver Dragon",
+  "director": "Tomer Eshed",
+  "date_added": "10-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a3d"
+  },
+  "title": "Kate",
+  "director": "Cedric Nicolas-Troyan",
+  "date_added": "10-Sep-21",
+  "release_year": "2021",
+  "rating": "R",
+  "category": "Action & Adventure"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a3e"
+  },
+  "title": "Omo Ghetto: the Saga",
+  "director": "JJC Skillz, Funke Akindele",
+  "date_added": "10-Sep-21",
+  "release_year": "2020",
+  "rating": "TV-MA",
+  "category": "Action & Adventure, Comedies, Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a3f"
+  },
+  "title": "Prey",
+  "director": "Thomas Sieben",
+  "date_added": "10-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a40"
+  },
+  "title": "Blood Brothers: Malcolm X & Muhammad Ali",
+  "director": "Marcus Clarke",
+  "date_added": "09-Sep-21",
+  "release_year": "2021",
+  "rating": "PG-13",
+  "category": "Documentaries, Sports Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a41"
+  },
+  "title": "Paradise Hills",
+  "director": "Alice Waddington",
+  "date_added": "09-Sep-21",
+  "release_year": "2019",
+  "rating": "TV-MA",
+  "category": "Sci-Fi & Fantasy, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a42"
+  },
+  "title": "The Women and the Murderer",
+  "director": "Mona Achache, Patricia Tourancheau",
+  "date_added": "09-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Documentaries, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a43"
+  },
+  "title": "JJ+E",
+  "director": "Alexis Almström",
+  "date_added": "08-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Dramas, International Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a44"
+  },
+  "title": "Show Dogs",
+  "director": "Raja Gosnell",
+  "date_added": "08-Sep-21",
+  "release_year": "2018",
+  "rating": "PG",
+  "category": "Children & Family Movies, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a45"
+  },
+  "title": "If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd",
+  "director": "Stephen Kijak",
+  "date_added": "07-Sep-21",
+  "release_year": "2018",
+  "rating": "TV-MA",
+  "category": "Documentaries, Music & Musicals"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a46"
+  },
+  "title": "Untold: Breaking Point",
+  "director": "Chapman Way, Maclain Way",
+  "date_added": "07-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Documentaries, Sports Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a47"
+  },
+  "title": "Shadow Parties",
+  "director": "Yemi Amodu",
+  "date_added": "06-Sep-21",
+  "release_year": "2020",
+  "rating": "TV-MA",
+  "category": "Dramas, International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a48"
+  },
+  "title": "Angamaly Diaries",
+  "director": "Lijo Jose Pellissery",
+  "date_added": "05-Sep-21",
+  "release_year": "2017",
+  "rating": "TV-14",
+  "category": "Action & Adventure, Comedies, Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a49"
+  },
+  "title": "A Champion Heart",
+  "director": "David de Vos",
+  "date_added": "04-Sep-21",
+  "release_year": "2018",
+  "rating": "G",
+  "category": "Children & Family Movies, Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a4a"
+  },
+  "title": "Worth",
+  "director": "Sara Colangelo",
+  "date_added": "03-Sep-21",
+  "release_year": "2021",
+  "rating": "PG-13",
+  "category": "Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a4b"
+  },
+  "title": "Afterlife of the Party",
+  "director": "Stephen Herek",
+  "date_added": "02-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-PG",
+  "category": "Comedies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a4c"
+  },
+  "title": "Anjaam",
+  "director": "Rahul Rawail",
+  "date_added": "02-Sep-21",
+  "release_year": "1994",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a4d"
+  },
+  "title": "Bright Star",
+  "director": "Jane Campion",
+  "date_added": "02-Sep-21",
+  "release_year": "2009",
+  "rating": "PG",
+  "category": "Dramas, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a4e"
+  },
+  "title": "Dhanak",
+  "director": "Nagesh Kukunoor",
+  "date_added": "02-Sep-21",
+  "release_year": "2015",
+  "rating": "TV-PG",
+  "category": "Comedies, Dramas, Independent Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a4f"
+  },
+  "title": "Final Account",
+  "director": "Luke Holland",
+  "date_added": "02-Sep-21",
+  "release_year": "2021",
+  "rating": "PG-13",
+  "category": "Documentaries"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a50"
+  },
+  "title": "Gurgaon",
+  "director": "Shanker Raman",
+  "date_added": "02-Sep-21",
+  "release_year": "2017",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a51"
+  },
+  "title": "Here and There",
+  "director": "JP Habac",
+  "date_added": "02-Sep-21",
+  "release_year": "2020",
+  "rating": "TV-MA",
+  "category": "Dramas, International Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a52"
+  },
+  "title": "In the Cut",
+  "director": "Jane Campion",
+  "date_added": "02-Sep-21",
+  "release_year": "2003",
+  "rating": "R",
+  "category": "Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a53"
+  },
+  "title": "Shikara",
+  "director": "Vidhu Vinod Chopra",
+  "date_added": "02-Sep-21",
+  "release_year": "2020",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a54"
+  },
+  "title": "A Cinderella Story",
+  "director": "Mark Rosman",
+  "date_added": "01-Sep-21",
+  "release_year": "2004",
+  "rating": "PG",
+  "category": "Children & Family Movies, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a55"
+  },
+  "title": "Agatha Christie's Crooked House",
+  "director": "Gilles Paquet-Brenner",
+  "date_added": "01-Sep-21",
+  "release_year": "2017",
+  "rating": "PG-13",
+  "category": "Dramas, International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a56"
+  },
+  "title": "An Unfinished Life",
+  "director": "Lasse Hallström",
+  "date_added": "01-Sep-21",
+  "release_year": "2005",
+  "rating": "PG-13",
+  "category": "Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a57"
+  },
+  "title": "Barbie Big City Big Dreams",
+  "director": "Scott Pleydell-Pearce",
+  "date_added": "01-Sep-21",
+  "release_year": "2021",
+  "rating": "TV-Y",
+  "category": "Children & Family Movies, Music & Musicals"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a58"
+  },
+  "title": "Blade Runner: The Final Cut",
+  "director": "Ridley Scott",
+  "date_added": "01-Sep-21",
+  "release_year": "1982",
+  "rating": "R",
+  "category": "Action & Adventure, Classic Movies, Cult Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a59"
+  },
+  "title": "Chappie",
+  "director": "Neill Blomkamp",
+  "date_added": "01-Sep-21",
+  "release_year": "2015",
+  "rating": "R",
+  "category": "Action & Adventure, Sci-Fi & Fantasy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a5a"
+  },
+  "title": "Clear and Present Danger",
+  "director": "Phillip Noyce",
+  "date_added": "01-Sep-21",
+  "release_year": "1994",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a5b"
+  },
+  "title": "Cliffhanger",
+  "director": "Renny Harlin",
+  "date_added": "01-Sep-21",
+  "release_year": "1993",
+  "rating": "R",
+  "category": "Action & Adventure"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a5c"
+  },
+  "title": "Cold Mountain",
+  "director": "Anthony Minghella",
+  "date_added": "01-Sep-21",
+  "release_year": "2003",
+  "rating": "R",
+  "category": "Dramas, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a5d"
+  },
+  "title": "Crocodile Dundee in Los Angeles",
+  "director": "Simon Wincer",
+  "date_added": "01-Sep-21",
+  "release_year": "2001",
+  "rating": "PG",
+  "category": "Action & Adventure, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a5e"
+  },
+  "title": "Dear John",
+  "director": "Lasse Hallström",
+  "date_added": "01-Sep-21",
+  "release_year": "2010",
+  "rating": "PG-13",
+  "category": "Dramas, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a5f"
+  },
+  "title": "Do the Right Thing",
+  "director": "Spike Lee",
+  "date_added": "01-Sep-21",
+  "release_year": "1989",
+  "rating": "R",
+  "category": "Classic Movies, Comedies, Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a60"
+  },
+  "title": "El patrón, radiografía de un crimen",
+  "director": "Sebastián Schindel",
+  "date_added": "01-Sep-21",
+  "release_year": "2014",
+  "rating": "TV-MA",
+  "category": "Dramas, International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a61"
+  },
+  "title": "Extraction",
+  "director": "Steven C. Miller",
+  "date_added": "01-Sep-21",
+  "release_year": "2015",
+  "rating": "R",
+  "category": "Action & Adventure"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a62"
+  },
+  "title": "Freedom Writers",
+  "director": "Richard LaGravenese",
+  "date_added": "01-Sep-21",
+  "release_year": "2007",
+  "rating": "PG-13",
+  "category": "Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a63"
+  },
+  "title": "Green Lantern",
+  "director": "Martin Campbell",
+  "date_added": "01-Sep-21",
+  "release_year": "2011",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Sci-Fi & Fantasy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a64"
+  },
+  "title": "House Party",
+  "director": "Reginald Hudlin",
+  "date_added": "01-Sep-21",
+  "release_year": "1990",
+  "rating": "R",
+  "category": "Comedies, Cult Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a65"
+  },
+  "title": "House Party 2",
+  "director": "George Jackson, Doug McHenry",
+  "date_added": "01-Sep-21",
+  "release_year": "1991",
+  "rating": "R",
+  "category": "Comedies, Cult Movies, Music & Musicals"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a66"
+  },
+  "title": "House Party 3",
+  "director": "Eric Meza",
+  "date_added": "01-Sep-21",
+  "release_year": "1994",
+  "rating": "R",
+  "category": "Comedies, Music & Musicals"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a67"
+  },
+  "title": "I Got the Hook Up",
+  "director": "Michael Martin",
+  "date_added": "01-Sep-21",
+  "release_year": "1998",
+  "rating": "R",
+  "category": "Action & Adventure, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a68"
+  },
+  "title": "In Too Deep",
+  "director": "Michael Rymer",
+  "date_added": "01-Sep-21",
+  "release_year": "1999",
+  "rating": "R",
+  "category": "Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a69"
+  },
+  "title": "Initial D",
+  "director": "Andrew Lau Wai-keung, Alan Mak",
+  "date_added": "01-Sep-21",
+  "release_year": "2005",
+  "rating": "TV-14",
+  "category": "Action & Adventure, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a6a"
+  },
+  "title": "Janoskians: Untold and Untrue",
+  "director": "Brett Weiner",
+  "date_added": "01-Sep-21",
+  "release_year": "2016",
+  "rating": "TV-MA",
+  "category": "Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a6b"
+  },
+  "title": "Labyrinth",
+  "director": "Jim Henson",
+  "date_added": "01-Sep-21",
+  "release_year": "1986",
+  "rating": "PG",
+  "category": "Action & Adventure, Children & Family Movies, Cult Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a6c"
+  },
+  "title": "Letters to Juliet",
+  "director": "Gary Winick",
+  "date_added": "01-Sep-21",
+  "release_year": "2010",
+  "rating": "PG",
+  "category": "Comedies, Dramas, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a6d"
+  },
+  "title": "Level 16",
+  "director": "Danishka Esterhazy",
+  "date_added": "01-Sep-21",
+  "release_year": "2018",
+  "rating": "TV-14",
+  "category": "Sci-Fi & Fantasy, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a6e"
+  },
+  "title": "Love Don't Cost a Thing",
+  "director": "Troy Byer",
+  "date_added": "01-Sep-21",
+  "release_year": "2003",
+  "rating": "PG-13",
+  "category": "Comedies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a6f"
+  },
+  "title": "Love in a Puff",
+  "director": "Pang Ho-cheung",
+  "date_added": "01-Sep-21",
+  "release_year": "2010",
+  "rating": "TV-MA",
+  "category": "Comedies, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a70"
+  },
+  "title": "Mars Attacks!",
+  "director": "Tim Burton",
+  "date_added": "01-Sep-21",
+  "release_year": "1996",
+  "rating": "PG-13",
+  "category": "Comedies, Cult Movies, Sci-Fi & Fantasy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a71"
+  },
+  "title": "Marshall",
+  "director": "Reginald Hudlin",
+  "date_added": "01-Sep-21",
+  "release_year": "2017",
+  "rating": "PG-13",
+  "category": "Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a72"
+  },
+  "title": "My Boss's Daughter",
+  "director": "David Zucker",
+  "date_added": "01-Sep-21",
+  "release_year": "2003",
+  "rating": "R",
+  "category": "Comedies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a73"
+  },
+  "title": "Mystery Men",
+  "director": "Kinka Usher",
+  "date_added": "01-Sep-21",
+  "release_year": "1999",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a74"
+  },
+  "title": "Once Upon a Time in America",
+  "director": "Sergio Leone",
+  "date_added": "01-Sep-21",
+  "release_year": "1984",
+  "rating": "R",
+  "category": "Classic Movies, Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a75"
+  },
+  "title": "Open Season 2",
+  "director": "Matthew O'Callaghan, Todd Wilderman",
+  "date_added": "01-Sep-21",
+  "release_year": "2008",
+  "rating": "PG",
+  "category": "Children & Family Movies, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a76"
+  },
+  "title": "Osmosis Jones",
+  "director": "Bobby Farrelly, Peter Farrelly",
+  "date_added": "01-Sep-21",
+  "release_year": "2001",
+  "rating": "PG",
+  "category": "Action & Adventure, Children & Family Movies, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a77"
+  },
+  "title": "Poseidon",
+  "director": "Wolfgang Petersen",
+  "date_added": "01-Sep-21",
+  "release_year": "2006",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a78"
+  },
+  "title": "Rhyme & Reason",
+  "director": "Peter Spirer",
+  "date_added": "01-Sep-21",
+  "release_year": "1997",
+  "rating": "R",
+  "category": "Documentaries, Music & Musicals"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a79"
+  },
+  "title": "Same Kind of Different as Me",
+  "director": "Michael Carney",
+  "date_added": "01-Sep-21",
+  "release_year": "2017",
+  "rating": "PG-13",
+  "category": "Dramas, Faith & Spirituality"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a7a"
+  },
+  "title": "School of Rock",
+  "director": "Richard Linklater",
+  "date_added": "01-Sep-21",
+  "release_year": "2003",
+  "rating": "PG-13",
+  "category": "Comedies, Music & Musicals"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a7b"
+  },
+  "title": "Snervous Tyler Oakley",
+  "director": "Amy Rice",
+  "date_added": "01-Sep-21",
+  "release_year": "2015",
+  "rating": "PG-13",
+  "category": "Documentaries, LGBTQ Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a7c"
+  },
+  "title": "Tears of the Sun",
+  "director": "Antoine Fuqua",
+  "date_added": "01-Sep-21",
+  "release_year": "2003",
+  "rating": "R",
+  "category": "Action & Adventure, Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a7d"
+  },
+  "title": "The Blue Lagoon",
+  "director": "Randal Kleiser",
+  "date_added": "01-Sep-21",
+  "release_year": "1980",
+  "rating": "R",
+  "category": "Dramas, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a7e"
+  },
+  "title": "The Golden Child",
+  "director": "Michael Ritchie",
+  "date_added": "01-Sep-21",
+  "release_year": "1986",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a7f"
+  },
+  "title": "The Guns of Navarone",
+  "director": "J. Lee Thompson",
+  "date_added": "01-Sep-21",
+  "release_year": "1961",
+  "rating": "TV-14",
+  "category": "Action & Adventure, Classic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a80"
+  },
+  "title": "The Interview",
+  "director": "Evan Goldberg, Seth Rogen",
+  "date_added": "01-Sep-21",
+  "release_year": "2014",
+  "rating": "R",
+  "category": "Action & Adventure, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a81"
+  },
+  "title": "The Nutty Professor",
+  "director": "Tom Shadyac",
+  "date_added": "01-Sep-21",
+  "release_year": "1996",
+  "rating": "PG-13",
+  "category": "Comedies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a82"
+  },
+  "title": "The Nutty Professor II: The Klumps",
+  "director": "Peter Segal",
+  "date_added": "01-Sep-21",
+  "release_year": "2000",
+  "rating": "PG-13",
+  "category": "Comedies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a83"
+  },
+  "title": "Welcome Home Roscoe Jenkins",
+  "director": "Malcolm D. Lee",
+  "date_added": "01-Sep-21",
+  "release_year": "2008",
+  "rating": "PG-13",
+  "category": "Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a84"
+  },
+  "title": "In the Line of Fire",
+  "director": "Wolfgang Petersen",
+  "date_added": "31-Aug-21",
+  "release_year": "1993",
+  "rating": "R",
+  "category": "Action & Adventure, Classic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a85"
+  },
+  "title": "Untold: Crime & Penalties",
+  "director": "Chapman Way, Maclain Way",
+  "date_added": "31-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Documentaries, Sports Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a86"
+  },
+  "title": "2 Alone in Paris",
+  "director": "Ramzy Bedia, Éric Judor",
+  "date_added": "28-Aug-21",
+  "release_year": "2008",
+  "rating": "TV-MA",
+  "category": "Comedies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a87"
+  },
+  "title": "Thimmarusu",
+  "director": "Sharan Koppisetty",
+  "date_added": "28-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a88"
+  },
+  "title": "Wind River",
+  "director": "Taylor Sheridan",
+  "date_added": "28-Aug-21",
+  "release_year": "2017",
+  "rating": "R",
+  "category": "Dramas, Independent Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a89"
+  },
+  "title": "C Kkompany",
+  "director": "Sachin Yardi",
+  "date_added": "27-Aug-21",
+  "release_year": "2008",
+  "rating": "TV-14",
+  "category": "Action & Adventure, Comedies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a8a"
+  },
+  "title": "EMI: Liya Hai To Chukana Padega",
+  "director": "Saurabh Kabra",
+  "date_added": "27-Aug-21",
+  "release_year": "2008",
+  "rating": "TV-14",
+  "category": "Comedies, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a8b"
+  },
+  "title": "He's All That",
+  "director": "Mark Waters",
+  "date_added": "27-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Comedies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a8c"
+  },
+  "title": "Koi Aap Sa",
+  "director": "Partho Mitra",
+  "date_added": "27-Aug-21",
+  "release_year": "2006",
+  "rating": "TV-14",
+  "category": "Comedies, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a8d"
+  },
+  "title": "Krishna Cottage",
+  "director": "Santram Varma",
+  "date_added": "27-Aug-21",
+  "release_year": "2004",
+  "rating": "TV-14",
+  "category": "Action & Adventure, Horror Movies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a8e"
+  },
+  "title": "Kucch To Hai",
+  "director": "Anil V. Kumar, Anurag Basu",
+  "date_added": "27-Aug-21",
+  "release_year": "2003",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a8f"
+  },
+  "title": "Kyaa Kool Hai Hum",
+  "director": "Sangeeth Sivan",
+  "date_added": "27-Aug-21",
+  "release_year": "2005",
+  "rating": "TV-MA",
+  "category": "Comedies, International Movies, Music & Musicals"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a90"
+  },
+  "title": "Kyaa Kool Hain Hum 3",
+  "director": "Umesh Ghadge",
+  "date_added": "27-Aug-21",
+  "release_year": "2016",
+  "rating": "TV-MA",
+  "category": "Comedies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a91"
+  },
+  "title": "Kyaa Super Kool Hain Hum",
+  "director": "Sachin Yardi",
+  "date_added": "27-Aug-21",
+  "release_year": "2012",
+  "rating": "TV-MA",
+  "category": "Comedies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a92"
+  },
+  "title": "Kyo Kii... Main Jhuth Nahin Bolta",
+  "director": "David Dhawan",
+  "date_added": "27-Aug-21",
+  "release_year": "2001",
+  "rating": "TV-14",
+  "category": "Comedies, International Movies, Sci-Fi & Fantasy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a93"
+  },
+  "title": "LSD: Love, Sex Aur Dhokha",
+  "director": "Dibakar Banerjee",
+  "date_added": "27-Aug-21",
+  "release_year": "2010",
+  "rating": "TV-MA",
+  "category": "Dramas, Independent Movies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a94"
+  },
+  "title": "Mission Istaanbul: Darr Ke Aagey Jeet Hai",
+  "director": "Apoorva Lakhia",
+  "date_added": "27-Aug-21",
+  "release_year": "2008",
+  "rating": "TV-14",
+  "category": "Action & Adventure, International Movies, Music & Musicals"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a95"
+  },
+  "title": "Once Upon a Time in Mumbaai",
+  "director": "Milan Luthria",
+  "date_added": "27-Aug-21",
+  "release_year": "2010",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies, Music & Musicals"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a96"
+  },
+  "title": "Once Upon a Time in Mumbai Dobaara!",
+  "director": "Milan Luthria",
+  "date_added": "27-Aug-21",
+  "release_year": "2013",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies, Music & Musicals"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a97"
+  },
+  "title": "Ragini MMS",
+  "director": "Pawan Kripalani",
+  "date_added": "27-Aug-21",
+  "release_year": "2011",
+  "rating": "TV-MA",
+  "category": "Horror Movies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a98"
+  },
+  "title": "Ragini MMS 2",
+  "director": "Bhushan Patel",
+  "date_added": "27-Aug-21",
+  "release_year": "2014",
+  "rating": "TV-MA",
+  "category": "Horror Movies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a99"
+  },
+  "title": "SAS: Rise of the Black Swan",
+  "director": "Magnus Martens",
+  "date_added": "27-Aug-21",
+  "release_year": "2021",
+  "rating": "R",
+  "category": "Action & Adventure, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a9a"
+  },
+  "title": "Shootout at Lokhandwala",
+  "director": "Apoorva Lakhia",
+  "date_added": "27-Aug-21",
+  "release_year": "2007",
+  "rating": "TV-MA",
+  "category": "Action & Adventure, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a9b"
+  },
+  "title": "Shor In the City",
+  "director": "Raj Nidimoru, Krishna D.K.",
+  "date_added": "27-Aug-21",
+  "release_year": "2011",
+  "rating": "TV-14",
+  "category": "Comedies, Dramas, Independent Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a9c"
+  },
+  "title": "The Dirty Picture",
+  "director": "Milan Luthria",
+  "date_added": "27-Aug-21",
+  "release_year": "2011",
+  "rating": "TV-14",
+  "category": "Comedies, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a9d"
+  },
+  "title": "Bob Ross: Happy Accidents, Betrayal & Greed",
+  "director": "Joshua Rofé",
+  "date_added": "25-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Documentaries"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a9e"
+  },
+  "title": "Really Love",
+  "director": "Angel Kristi Williams",
+  "date_added": "25-Aug-21",
+  "release_year": "2020",
+  "rating": "TV-MA",
+  "category": "Dramas, Independent Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312a9f"
+  },
+  "title": "The November Man",
+  "director": "Roger Donaldson",
+  "date_added": "25-Aug-21",
+  "release_year": "2014",
+  "rating": "R",
+  "category": "Action & Adventure"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aa0"
+  },
+  "title": "The Old Ways",
+  "director": "Christopher Alender",
+  "date_added": "25-Aug-21",
+  "release_year": "2020",
+  "rating": "TV-MA",
+  "category": "Horror Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aa1"
+  },
+  "title": "The River Runner",
+  "director": "Rush Sturges",
+  "date_added": "25-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Documentaries, Sports Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aa2"
+  },
+  "title": "The Water Man",
+  "director": "David Oyelowo",
+  "date_added": "25-Aug-21",
+  "release_year": "2021",
+  "rating": "PG",
+  "category": "Children & Family Movies, Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aa3"
+  },
+  "title": "Count Me In",
+  "director": "Mark Lo",
+  "date_added": "24-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Documentaries, Music & Musicals"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aa4"
+  },
+  "title": "Untold: Caitlyn Jenner",
+  "director": "Crystal Moselle",
+  "date_added": "24-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-PG",
+  "category": "Documentaries, LGBTQ Movies, Sports Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aa5"
+  },
+  "title": "Boomika",
+  "director": "Rathindran R Prasad",
+  "date_added": "23-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Horror Movies, International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aa6"
+  },
+  "title": "Boomika (Hindi)",
+  "director": "Rathindran R Prasad",
+  "date_added": "23-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Horror Movies, International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aa7"
+  },
+  "title": "Boomika (Malayalam)",
+  "director": "Rathindran R Prasad",
+  "date_added": "23-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Horror Movies, International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aa8"
+  },
+  "title": "Boomika (Telugu)",
+  "director": "Rathindran R Prasad",
+  "date_added": "23-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Horror Movies, International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aa9"
+  },
+  "title": "The Witcher: Nightmare of the Wolf",
+  "director": "Han Kwang Il",
+  "date_added": "23-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Action & Adventure, Anime Features"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aaa"
+  },
+  "title": "Gunshot",
+  "director": "Karim El Shenawy",
+  "date_added": "20-Aug-21",
+  "release_year": "2018",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aab"
+  },
+  "title": "Man in Love",
+  "director": "Yin Chen-hao",
+  "date_added": "20-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Dramas, International Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aac"
+  },
+  "title": "Sweet Girl",
+  "director": "Brian Andrew Mendoza",
+  "date_added": "20-Aug-21",
+  "release_year": "2021",
+  "rating": "R",
+  "category": "Action & Adventure, Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aad"
+  },
+  "title": "The Loud House Movie",
+  "director": "Dave Needham",
+  "date_added": "20-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies, Comedies, Music & Musicals"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aae"
+  },
+  "title": "A Faraway Land",
+  "director": "Veronica Velasco",
+  "date_added": "19-Aug-21",
+  "release_year": "2020",
+  "rating": "TV-PG",
+  "category": "Dramas, International Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aaf"
+  },
+  "title": "Like Crazy",
+  "director": "Drake Doremus",
+  "date_added": "19-Aug-21",
+  "release_year": "2011",
+  "rating": "PG-13",
+  "category": "Dramas, Independent Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ab0"
+  },
+  "title": "Black Island",
+  "director": "Miguel Alexandre",
+  "date_added": "18-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ab1"
+  },
+  "title": "Bombay",
+  "director": "Mani Ratnam",
+  "date_added": "18-Aug-21",
+  "release_year": "1995",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ab2"
+  },
+  "title": "Memories of a Murderer: The Nilsen Tapes",
+  "director": "Michael Harte",
+  "date_added": "18-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Documentaries, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ab3"
+  },
+  "title": "Nneka The Pretty Serpent",
+  "director": "Tosin Igho",
+  "date_added": "18-Aug-21",
+  "release_year": "2020",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ab4"
+  },
+  "title": "O Kadhal Kanmani",
+  "director": "Mani Ratnam",
+  "date_added": "18-Aug-21",
+  "release_year": "2015",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ab5"
+  },
+  "title": "Out of my league",
+  "director": "Alice Filippi",
+  "date_added": "18-Aug-21",
+  "release_year": "2020",
+  "rating": "TV-MA",
+  "category": "Comedies, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ab6"
+  },
+  "title": "Pahuna",
+  "director": "Paakhi Tyrewala",
+  "date_added": "18-Aug-21",
+  "release_year": "2018",
+  "rating": "TV-PG",
+  "category": "Comedies, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ab7"
+  },
+  "title": "The Secret Diary of an Exchange Student",
+  "director": "Bruno Garotti",
+  "date_added": "18-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Comedies, International Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ab8"
+  },
+  "title": "Untold: Deal With the Devil",
+  "director": "Laura Brownson",
+  "date_added": "18-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Documentaries, LGBTQ Movies, Sports Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ab9"
+  },
+  "title": "Walk of Shame",
+  "director": "Steve Brill",
+  "date_added": "16-Aug-21",
+  "release_year": "2014",
+  "rating": "R",
+  "category": "Comedies, Independent Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aba"
+  },
+  "title": "The Piano",
+  "director": "Jane Campion",
+  "date_added": "15-Aug-21",
+  "release_year": "1993",
+  "rating": "R",
+  "category": "Classic Movies, Dramas, Independent Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312abb"
+  },
+  "title": "Unroyal",
+  "director": "Moses Inwang",
+  "date_added": "15-Aug-21",
+  "release_year": "2020",
+  "rating": "TV-MA",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312abc"
+  },
+  "title": "Beckett",
+  "director": "Ferdinando Cito Filomarino",
+  "date_added": "13-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Action & Adventure"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312abd"
+  },
+  "title": "Lokillo: Nothing's the Same",
+  "director": "Julián Gaviria",
+  "date_added": "12-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Stand-Up Comedy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312abe"
+  },
+  "title": "Monster Hunter: Legends of the Guild",
+  "director": "Steven Yamamoto",
+  "date_added": "12-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-PG",
+  "category": "Action & Adventure, Anime Features, Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312abf"
+  },
+  "title": "Brother Jekwu",
+  "director": "Charles Uwagbai",
+  "date_added": "11-Aug-21",
+  "release_year": "2016",
+  "rating": "TV-14",
+  "category": "Comedies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ac0"
+  },
+  "title": "La diosa del asfalto",
+  "director": "Julián Hernández",
+  "date_added": "11-Aug-21",
+  "release_year": "2020",
+  "rating": "TV-MA",
+  "category": "Dramas, Independent Movies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ac1"
+  },
+  "title": "Misha and the Wolves",
+  "director": "Sam Hobkinson",
+  "date_added": "11-Aug-21",
+  "release_year": "2021",
+  "rating": "PG-13",
+  "category": "Documentaries, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ac2"
+  },
+  "title": "The Kissing Booth 3",
+  "director": "Vince Marcello",
+  "date_added": "11-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Comedies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ac3"
+  },
+  "title": "The Railway Man",
+  "director": "Jonathan Teplitzky",
+  "date_added": "11-Aug-21",
+  "release_year": "2013",
+  "rating": "R",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ac4"
+  },
+  "title": "Untold: Malice at the Palace",
+  "director": "Floyd Russ",
+  "date_added": "10-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Documentaries, Sports Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ac5"
+  },
+  "title": "Quartet",
+  "director": "Dustin Hoffman",
+  "date_added": "08-Aug-21",
+  "release_year": "2012",
+  "rating": "PG-13",
+  "category": "Comedies, Dramas, Independent Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ac6"
+  },
+  "title": "Slay",
+  "director": "Adze Ugah",
+  "date_added": "08-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Comedies, International Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ac7"
+  },
+  "title": "Takizawa Kabuki ZERO 2020 The Movie",
+  "director": "Hideaki Takizawa",
+  "date_added": "07-Aug-21",
+  "release_year": "2020",
+  "rating": "TV-PG",
+  "category": "International Movies, Music & Musicals"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ac8"
+  },
+  "title": "The Paper Tigers",
+  "director": "Quoc Bao Tran",
+  "date_added": "07-Aug-21",
+  "release_year": "2021",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ac9"
+  },
+  "title": "Quam's Money",
+  "director": "Kayode Kasum",
+  "date_added": "06-Aug-21",
+  "release_year": "2020",
+  "rating": "TV-MA",
+  "category": "Comedies, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aca"
+  },
+  "title": "The Swarm",
+  "director": "Just Philippot",
+  "date_added": "06-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Horror Movies, Independent Movies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312acb"
+  },
+  "title": "Vivo",
+  "director": "Kirk DeMicco, Brandon Jeffords",
+  "date_added": "06-Aug-21",
+  "release_year": "2021",
+  "rating": "PG",
+  "category": "Children & Family Movies, Music & Musicals"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312acc"
+  },
+  "title": "Chennai Express",
+  "director": "Rohit Shetty",
+  "date_added": "05-Aug-21",
+  "release_year": "2013",
+  "rating": "TV-14",
+  "category": "Action & Adventure, Comedies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312acd"
+  },
+  "title": "City of God: 10 Years Later",
+  "director": "Cavi Borges, Luciano Vidigal",
+  "date_added": "05-Aug-21",
+  "release_year": "2013",
+  "rating": "TV-MA",
+  "category": "Documentaries, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ace"
+  },
+  "title": "Esperando la carroza",
+  "director": "Alejandro Doria",
+  "date_added": "05-Aug-21",
+  "release_year": "1985",
+  "rating": "TV-MA",
+  "category": "Comedies, Cult Movies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312acf"
+  },
+  "title": "Lady Boss: The Jackie Collins Story",
+  "director": "Laura Fairrie",
+  "date_added": "05-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Documentaries"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ad0"
+  },
+  "title": "Tango Feroz",
+  "director": "Marcelo Piñeyro",
+  "date_added": "05-Aug-21",
+  "release_year": "1993",
+  "rating": "TV-MA",
+  "category": "Classic Movies, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ad1"
+  },
+  "title": "'76",
+  "director": "Izu Ojukwu",
+  "date_added": "04-Aug-21",
+  "release_year": "2016",
+  "rating": "TV-PG",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ad2"
+  },
+  "title": "Aftermath",
+  "director": "Peter Winther",
+  "date_added": "04-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Horror Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ad3"
+  },
+  "title": "American Masters: Inventing David Geffen",
+  "director": "Susan Lacy",
+  "date_added": "04-Aug-21",
+  "release_year": "2012",
+  "rating": "TV-MA",
+  "category": "Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ad4"
+  },
+  "title": "Heavy",
+  "director": "James Mangold",
+  "date_added": "03-Aug-21",
+  "release_year": "1995",
+  "rating": "R",
+  "category": "Dramas, Independent Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ad5"
+  },
+  "title": "Ije: The Journey",
+  "director": "Chineze Anyaene",
+  "date_added": "03-Aug-21",
+  "release_year": "2010",
+  "rating": "TV-MA",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ad6"
+  },
+  "title": "Pray Away",
+  "director": "Kristine Stolakis",
+  "date_added": "03-Aug-21",
+  "release_year": "2021",
+  "rating": "PG-13",
+  "category": "Documentaries, LGBTQ Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ad7"
+  },
+  "title": "Shiny_Flakes: The Teenage Drug Lord",
+  "director": "Eva Müller, Michael Schmitt",
+  "date_added": "03-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Documentaries, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ad8"
+  },
+  "title": "Beethoven",
+  "director": "Brian Levant",
+  "date_added": "01-Aug-21",
+  "release_year": "1992",
+  "rating": "PG",
+  "category": "Children & Family Movies, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ad9"
+  },
+  "title": "Beethoven's 2nd",
+  "director": "Rod Daniel",
+  "date_added": "01-Aug-21",
+  "release_year": "1993",
+  "rating": "PG",
+  "category": "Children & Family Movies, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ada"
+  },
+  "title": "Beowulf",
+  "director": "Robert Zemeckis",
+  "date_added": "01-Aug-21",
+  "release_year": "2007",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Sci-Fi & Fantasy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312adb"
+  },
+  "title": "Boyka: Undisputed",
+  "director": "Todor Chapkanov",
+  "date_added": "01-Aug-21",
+  "release_year": "2016",
+  "rating": "R",
+  "category": "Action & Adventure"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312adc"
+  },
+  "title": "Catch Me If You Can",
+  "director": "Steven Spielberg",
+  "date_added": "01-Aug-21",
+  "release_year": "2002",
+  "rating": "PG-13",
+  "category": "Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312add"
+  },
+  "title": "Cloudy with a Chance of Meatballs",
+  "director": "Phil Lord, Christopher Miller",
+  "date_added": "01-Aug-21",
+  "release_year": "2009",
+  "rating": "PG",
+  "category": "Children & Family Movies, Comedies, Sci-Fi & Fantasy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ade"
+  },
+  "title": "Deep Blue Sea",
+  "director": "Renny Harlin",
+  "date_added": "01-Aug-21",
+  "release_year": "1999",
+  "rating": "R",
+  "category": "Action & Adventure, Horror Movies, Sci-Fi & Fantasy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312adf"
+  },
+  "title": "Ferris Bueller's Day Off",
+  "director": "John Hughes",
+  "date_added": "01-Aug-21",
+  "release_year": "1986",
+  "rating": "PG-13",
+  "category": "Classic Movies, Comedies, Cult Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ae0"
+  },
+  "title": "Five Feet Apart",
+  "director": "Justin Baldoni",
+  "date_added": "01-Aug-21",
+  "release_year": "2019",
+  "rating": "PG-13",
+  "category": "Dramas, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ae1"
+  },
+  "title": "Freedomland",
+  "director": "Joe Roth",
+  "date_added": "01-Aug-21",
+  "release_year": "2006",
+  "rating": "R",
+  "category": "Dramas, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ae2"
+  },
+  "title": "Good Luck Chuck",
+  "director": "Mark Helfrich",
+  "date_added": "01-Aug-21",
+  "release_year": "2007",
+  "rating": "R",
+  "category": "Comedies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ae3"
+  },
+  "title": "I missed you: Director's Cut",
+  "director": "Mag Hsu, Hsu Chih-yen",
+  "date_added": "01-Aug-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Dramas, Independent Movies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ae4"
+  },
+  "title": "Inception",
+  "director": "Christopher Nolan",
+  "date_added": "01-Aug-21",
+  "release_year": "2010",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Sci-Fi & Fantasy, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ae5"
+  },
+  "title": "Magnolia",
+  "director": "Paul Thomas Anderson",
+  "date_added": "01-Aug-21",
+  "release_year": "1999",
+  "rating": "R",
+  "category": "Dramas, Independent Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ae6"
+  },
+  "title": "Major Payne",
+  "director": "Nick Castle",
+  "date_added": "01-Aug-21",
+  "release_year": "1995",
+  "rating": "PG-13",
+  "category": "Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ae7"
+  },
+  "title": "My Girl",
+  "director": "Howard Zieff",
+  "date_added": "01-Aug-21",
+  "release_year": "1991",
+  "rating": "PG-13",
+  "category": "Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ae8"
+  },
+  "title": "My Girl 2",
+  "director": "Howard Zieff",
+  "date_added": "01-Aug-21",
+  "release_year": "1994",
+  "rating": "PG",
+  "category": "Children & Family Movies, Comedies, Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312ae9"
+  },
+  "title": "Open Season: Scared Silly",
+  "director": "David Feiss",
+  "date_added": "01-Aug-21",
+  "release_year": "2015",
+  "rating": "PG",
+  "category": "Children & Family Movies, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aea"
+  },
+  "title": "Pineapple Express",
+  "director": "David Gordon Green",
+  "date_added": "01-Aug-21",
+  "release_year": "2008",
+  "rating": "R",
+  "category": "Action & Adventure, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aeb"
+  },
+  "title": "Planet 51",
+  "director": "Jorge Blanco",
+  "date_added": "01-Aug-21",
+  "release_year": "2009",
+  "rating": "PG",
+  "category": "Children & Family Movies, Comedies, Sci-Fi & Fantasy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aec"
+  },
+  "title": "Poms",
+  "director": "Zara Hayes",
+  "date_added": "01-Aug-21",
+  "release_year": "2019",
+  "rating": "PG-13",
+  "category": "Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aed"
+  },
+  "title": "Seabiscuit",
+  "director": "Gary Ross",
+  "date_added": "01-Aug-21",
+  "release_year": "2003",
+  "rating": "PG-13",
+  "category": "Dramas, Sports Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aee"
+  },
+  "title": "Space Cowboys",
+  "director": "Clint Eastwood",
+  "date_added": "01-Aug-21",
+  "release_year": "2000",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Dramas, Sci-Fi & Fantasy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aef"
+  },
+  "title": "Team America: World Police",
+  "director": "Trey Parker",
+  "date_added": "01-Aug-21",
+  "release_year": "2004",
+  "rating": "R",
+  "category": "Action & Adventure, Comedies, Cult Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312af0"
+  },
+  "title": "The Edge of Seventeen",
+  "director": "Kelly Fremon Craig",
+  "date_added": "01-Aug-21",
+  "release_year": "2016",
+  "rating": "R",
+  "category": "Comedies, Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312af1"
+  },
+  "title": "The Haunting in Connecticut 2: Ghosts of Georgia",
+  "director": "Tom Elkins",
+  "date_added": "01-Aug-21",
+  "release_year": "2013",
+  "rating": "R",
+  "category": "Horror Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312af2"
+  },
+  "title": "The Last Boy Scout",
+  "director": "Tony Scott",
+  "date_added": "01-Aug-21",
+  "release_year": "1991",
+  "rating": "R",
+  "category": "Action & Adventure, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312af3"
+  },
+  "title": "The Lincoln Lawyer",
+  "director": "Brad Furman",
+  "date_added": "01-Aug-21",
+  "release_year": "2011",
+  "rating": "R",
+  "category": "Dramas, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312af4"
+  },
+  "title": "The Losers",
+  "director": "Sylvain White",
+  "date_added": "01-Aug-21",
+  "release_year": "2010",
+  "rating": "PG-13",
+  "category": "Action & Adventure"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312af5"
+  },
+  "title": "The Machinist",
+  "director": "Brad Anderson",
+  "date_added": "01-Aug-21",
+  "release_year": "2004",
+  "rating": "R",
+  "category": "Dramas, Independent Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312af6"
+  },
+  "title": "The Net",
+  "director": "Irwin Winkler",
+  "date_added": "01-Aug-21",
+  "release_year": "1995",
+  "rating": "PG-13",
+  "category": "Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312af7"
+  },
+  "title": "The Original Kings of Comedy",
+  "director": "Spike Lee",
+  "date_added": "01-Aug-21",
+  "release_year": "2000",
+  "rating": "R",
+  "category": "Stand-Up Comedy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312af8"
+  },
+  "title": "Valentine's Day",
+  "director": "Garry Marshall",
+  "date_added": "01-Aug-21",
+  "release_year": "2010",
+  "rating": "PG-13",
+  "category": "Comedies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312af9"
+  },
+  "title": "The Lost Café",
+  "director": "Kenneth Gyang",
+  "date_added": "31-Jul-21",
+  "release_year": "2018",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312afa"
+  },
+  "title": "The Vault",
+  "director": "Jaume Balagueró",
+  "date_added": "31-Jul-21",
+  "release_year": "2021",
+  "rating": "R",
+  "category": "Action & Adventure, International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312afb"
+  },
+  "title": "Eyes of a Thief",
+  "director": "Najwa Najjar",
+  "date_added": "30-Jul-21",
+  "release_year": "2014",
+  "rating": "TV-14",
+  "category": "Dramas, Independent Movies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312afc"
+  },
+  "title": "I'm Glad I Did",
+  "director": "Selçuk Metin",
+  "date_added": "30-Jul-21",
+  "release_year": "2020",
+  "rating": "TV-14",
+  "category": "Documentaries, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312afd"
+  },
+  "title": "Pomegranates and Myrrh",
+  "director": "Najwa Najjar",
+  "date_added": "30-Jul-21",
+  "release_year": "2009",
+  "rating": "TV-14",
+  "category": "Dramas, Independent Movies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312afe"
+  },
+  "title": "Rurouni Kenshin: The Beginning",
+  "director": "Keishi Otomo",
+  "date_added": "30-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Action & Adventure, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312aff"
+  },
+  "title": "The Last Mercenary",
+  "director": "David Charhon",
+  "date_added": "30-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Action & Adventure, Comedies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b00"
+  },
+  "title": "Flower Girl",
+  "director": "Michelle Bello",
+  "date_added": "29-Jul-21",
+  "release_year": "2013",
+  "rating": "TV-PG",
+  "category": "Comedies, International Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b01"
+  },
+  "title": "Resort to Love",
+  "director": "Steven Tsuchida",
+  "date_added": "29-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Comedies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b02"
+  },
+  "title": "Bartkowiak",
+  "director": "Daniel Markowicz",
+  "date_added": "28-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Action & Adventure, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b03"
+  },
+  "title": "Fantastic Fungi",
+  "director": "Louie Schwartzberg",
+  "date_added": "28-Jul-21",
+  "release_year": "2019",
+  "rating": "TV-14",
+  "category": "Documentaries"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b04"
+  },
+  "title": "Department",
+  "director": "Ram Gopal Varma",
+  "date_added": "27-Jul-21",
+  "release_year": "2012",
+  "rating": "TV-MA",
+  "category": "Action & Adventure, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b05"
+  },
+  "title": "Hostage House",
+  "director": "David Benullo",
+  "date_added": "27-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b06"
+  },
+  "title": "Mimi",
+  "director": "Laxman Utekar",
+  "date_added": "27-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Comedies, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b07"
+  },
+  "title": "The Operative",
+  "director": "Yuval Adler",
+  "date_added": "27-Jul-21",
+  "release_year": "2019",
+  "rating": "TV-MA",
+  "category": "Dramas, International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b08"
+  },
+  "title": "Django Unchained",
+  "director": "Quentin Tarantino",
+  "date_added": "24-Jul-21",
+  "release_year": "2012",
+  "rating": "R",
+  "category": "Action & Adventure, Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b09"
+  },
+  "title": "A Second Chance:  Rivals!",
+  "director": "Clay Glen",
+  "date_added": "23-Jul-21",
+  "release_year": "2021",
+  "rating": "PG",
+  "category": "Children & Family Movies, Sports Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b0a"
+  },
+  "title": "African America",
+  "director": "Muzi Mthembu",
+  "date_added": "23-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Dramas, Independent Movies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b0b"
+  },
+  "title": "Bankrolled",
+  "director": "Marcos Bucay",
+  "date_added": "23-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Comedies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b0c"
+  },
+  "title": "Blood Red Sky",
+  "director": "Peter Thorwarth",
+  "date_added": "23-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Action & Adventure, Horror Movies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b0d"
+  },
+  "title": "Kingdom: Ashin of the North",
+  "director": "Kim Seong-hun",
+  "date_added": "23-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Horror Movies, International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b0e"
+  },
+  "title": "The Last Letter From Your Lover",
+  "director": "Augustine Frizzell",
+  "date_added": "23-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Dramas, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b0f"
+  },
+  "title": "9to5: The Story of a Movement",
+  "date_added": "22-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Documentaries"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b10"
+  },
+  "title": "Chhota Bheem - Dinosaur World",
+  "director": "Sidheswar Shukla",
+  "date_added": "22-Jul-21",
+  "release_year": "2015",
+  "rating": "TV-Y",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b11"
+  },
+  "title": "Chhota Bheem - Neeli Pahaadi",
+  "director": "Rajiv Chilaka",
+  "date_added": "22-Jul-21",
+  "release_year": "2013",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b12"
+  },
+  "title": "Chhota Bheem & Ganesh",
+  "director": "Rajiv Chilaka",
+  "date_added": "22-Jul-21",
+  "release_year": "2009",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b13"
+  },
+  "title": "Chhota Bheem & Krishna: Mayanagari",
+  "director": "Rajiv Chilaka",
+  "date_added": "22-Jul-21",
+  "release_year": "2011",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b14"
+  },
+  "title": "Chhota Bheem & Krishna: Pataliputra- City of the Dead",
+  "director": "Rajiv Chilaka",
+  "date_added": "22-Jul-21",
+  "release_year": "2010",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b15"
+  },
+  "title": "Chhota Bheem And The Broken Amulet",
+  "director": "Rajiv Chilaka",
+  "date_added": "22-Jul-21",
+  "release_year": "2013",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b16"
+  },
+  "title": "Chhota Bheem And The Crown of Valhalla",
+  "director": "Rajiv Chilaka",
+  "date_added": "22-Jul-21",
+  "release_year": "2013",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b17"
+  },
+  "title": "Chhota Bheem and the Incan Adventure",
+  "director": "Rajiv Chilaka",
+  "date_added": "22-Jul-21",
+  "release_year": "2013",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b18"
+  },
+  "title": "Chhota Bheem and The ShiNobi Secret",
+  "director": "Rajiv Chilaka",
+  "date_added": "22-Jul-21",
+  "release_year": "2013",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b19"
+  },
+  "title": "Chhota Bheem Aur Hanuman",
+  "director": "Rajiv Chilaka",
+  "date_added": "22-Jul-21",
+  "release_year": "2012",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b1a"
+  },
+  "title": "Chhota Bheem aur Krishna",
+  "director": "Rajiv Chilaka",
+  "date_added": "22-Jul-21",
+  "release_year": "2009",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b1b"
+  },
+  "title": "Chhota Bheem aur Krishna vs Zimbara",
+  "director": "Rajiv Chilaka",
+  "date_added": "22-Jul-21",
+  "release_year": "2013",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b1c"
+  },
+  "title": "Chhota Bheem in African Safari",
+  "director": "Binayak Das",
+  "date_added": "22-Jul-21",
+  "release_year": "2015",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b1d"
+  },
+  "title": "Chhota Bheem Ka Roosi Romanch",
+  "director": "Arpan Sarkar, Shyamal Chaulia",
+  "date_added": "22-Jul-21",
+  "release_year": "2019",
+  "rating": "TV-Y",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b1e"
+  },
+  "title": "Chhota Bheem: Bheem vs Aliens",
+  "director": "Rajiv Chilaka",
+  "date_added": "22-Jul-21",
+  "release_year": "2010",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies, Sports Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b1f"
+  },
+  "title": "Chhota Bheem: Dholakpur to Kathmandu",
+  "director": "Rajiv Chilaka",
+  "date_added": "22-Jul-21",
+  "release_year": "2012",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b20"
+  },
+  "title": "Chhota Bheem: Dus Pe Dus",
+  "director": "Rajiv Chilaka, Owll Mina",
+  "date_added": "22-Jul-21",
+  "release_year": "2014",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b21"
+  },
+  "title": "Chhota Bheem: Journey to Petra",
+  "director": "Rajiv Chilaka",
+  "date_added": "22-Jul-21",
+  "release_year": "2011",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b22"
+  },
+  "title": "Chhota Bheem: Master of Shaolin",
+  "director": "Rajiv Chilaka",
+  "date_added": "22-Jul-21",
+  "release_year": "2011",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b23"
+  },
+  "title": "Chhota Bheem: The Rise of Kirmada",
+  "director": "Rajiv Chilaka",
+  "date_added": "22-Jul-21",
+  "release_year": "2012",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b24"
+  },
+  "title": "Cousins",
+  "director": "Ainsley Gardiner, Briar Grace-Smith",
+  "date_added": "22-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b25"
+  },
+  "title": "Wannabe Courageous",
+  "director": "Mahmoud Karim",
+  "date_added": "22-Jul-21",
+  "release_year": "2019",
+  "rating": "TV-14",
+  "category": "Comedies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b26"
+  },
+  "title": "Words Bubble Up Like Soda Pop",
+  "director": "Kyohei Ishiguro",
+  "date_added": "22-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-G",
+  "category": "Anime Features, Children & Family Movies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b27"
+  },
+  "title": "Sanitation Day",
+  "director": "Seyi Babatope",
+  "date_added": "21-Jul-21",
+  "release_year": "2020",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b28"
+  },
+  "title": "Trollhunters: Rise of the Titans",
+  "director": "Johane Matte, Andrew L. Schmidt, Francisco Ruiz Velasco",
+  "date_added": "21-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-Y7",
+  "category": "Children & Family Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b29"
+  },
+  "title": "Milkwater",
+  "director": "Morgan Ingari",
+  "date_added": "20-Jul-21",
+  "release_year": "2020",
+  "rating": "TV-MA",
+  "category": "Comedies, Dramas, Independent Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b2a"
+  },
+  "title": "The Tambour of Retribution",
+  "director": "Abdulaziz Alshlahei",
+  "date_added": "19-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b2b"
+  },
+  "title": "Cosmic Sin",
+  "director": "Edward Drake",
+  "date_added": "17-Jul-21",
+  "release_year": "2021",
+  "rating": "R",
+  "category": "Action & Adventure"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b2c"
+  },
+  "title": "2 Weeks in Lagos",
+  "director": "Kathryn Fasegha",
+  "date_added": "16-Jul-21",
+  "release_year": "2020",
+  "rating": "TV-PG",
+  "category": "Dramas, International Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b2d"
+  },
+  "title": "Deep",
+  "director": "Sita Likitvanichkul, Jetarin Ratanaserikiat, Apirak Samudkitpaisan, Thanabodee Uawithya, Adirek Wattaleela",
+  "date_added": "16-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Dramas, International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b2e"
+  },
+  "title": "Fear Street Part 3: 1666",
+  "director": "Leigh Janiak",
+  "date_added": "16-Jul-21",
+  "release_year": "2021",
+  "rating": "R",
+  "category": "Horror Movies, LGBTQ Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b2f"
+  },
+  "title": "La ley de Herodes",
+  "director": "Luis Estrada",
+  "date_added": "16-Jul-21",
+  "release_year": "1999",
+  "rating": "R",
+  "category": "Comedies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b30"
+  },
+  "title": "The Beguiled",
+  "director": "Sofia Coppola",
+  "date_added": "16-Jul-21",
+  "release_year": "2017",
+  "rating": "R",
+  "category": "Dramas, Independent Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b31"
+  },
+  "title": "The Book of Henry",
+  "director": "Colin Trevorrow",
+  "date_added": "16-Jul-21",
+  "release_year": "2017",
+  "rating": "PG-13",
+  "category": "Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b32"
+  },
+  "title": "The Twilight Saga: Breaking Dawn: Part 1",
+  "director": "Bill Condon",
+  "date_added": "16-Jul-21",
+  "release_year": "2011",
+  "rating": "PG-13",
+  "category": "Dramas, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b33"
+  },
+  "title": "The Twilight Saga: Breaking Dawn: Part 2",
+  "director": "Bill Condon",
+  "date_added": "16-Jul-21",
+  "release_year": "2012",
+  "rating": "PG-13",
+  "category": "Dramas, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b34"
+  },
+  "title": "The Twilight Saga: Eclipse",
+  "director": "David Slade",
+  "date_added": "16-Jul-21",
+  "release_year": "2010",
+  "rating": "PG-13",
+  "category": "Dramas, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b35"
+  },
+  "title": "The Twilight Saga: New Moon",
+  "director": "Chris Weitz",
+  "date_added": "16-Jul-21",
+  "release_year": "2009",
+  "rating": "PG-13",
+  "category": "Dramas, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b36"
+  },
+  "title": "Twilight",
+  "director": "Catherine Hardwicke",
+  "date_added": "16-Jul-21",
+  "release_year": "2008",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Dramas, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b37"
+  },
+  "title": "A Perfect Fit",
+  "director": "Hadrah Daeng Ratu",
+  "date_added": "15-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-PG",
+  "category": "Comedies, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b38"
+  },
+  "title": "Cheech & Chong's Still Smokin",
+  "director": "Tommy Chong",
+  "date_added": "15-Jul-21",
+  "release_year": "1983",
+  "rating": "TV-MA",
+  "category": "Comedies, Cult Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b39"
+  },
+  "title": "Emicida: AmarElo - Live in São Paulo",
+  "director": "Fred Ouro Preto",
+  "date_added": "15-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Documentaries, International Movies, Music & Musicals"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b3a"
+  },
+  "title": "Lift Like a Girl",
+  "director": "Mayye Zayed",
+  "date_added": "15-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-PG",
+  "category": "Documentaries, International Movies, Sports Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b3b"
+  },
+  "title": "My Amanda",
+  "director": "Alessandra de Rossi",
+  "date_added": "15-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b3c"
+  },
+  "title": "Surf's Up",
+  "director": "Ash Brannon, Chris Buck",
+  "date_added": "15-Jul-21",
+  "release_year": "2007",
+  "rating": "PG",
+  "category": "Children & Family Movies, Comedies, Sports Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b3d"
+  },
+  "title": "The Unknown Saint",
+  "director": "Alaa Eddine Aljem",
+  "date_added": "15-Jul-21",
+  "release_year": "2019",
+  "rating": "TV-14",
+  "category": "Comedies, Dramas, Independent Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b3e"
+  },
+  "title": "This Changes Everything",
+  "director": "Tom Donahue",
+  "date_added": "15-Jul-21",
+  "release_year": "2019",
+  "rating": "TV-MA",
+  "category": "Documentaries"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b3f"
+  },
+  "title": "A Classic Horror Story",
+  "director": "Roberto De Feo, Paolo Strippoli",
+  "date_added": "14-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Horror Movies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b40"
+  },
+  "title": "Gunpowder Milkshake",
+  "director": "Navot Papushado",
+  "date_added": "14-Jul-21",
+  "release_year": "2021",
+  "rating": "R",
+  "category": "Action & Adventure, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b41"
+  },
+  "title": "Private Network: Who Killed Manuel Buendía?",
+  "director": "Manuel Alcalá",
+  "date_added": "14-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Documentaries, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b42"
+  },
+  "title": "The Guide to the Perfect Family",
+  "director": "Ricardo Trogi",
+  "date_added": "14-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Comedies, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b43"
+  },
+  "title": "American Woman",
+  "director": "Semi Chellas",
+  "date_added": "13-Jul-21",
+  "release_year": "2019",
+  "rating": "TV-MA",
+  "category": "Dramas, Independent Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b44"
+  },
+  "title": "Bridgerton - The Afterparty",
+  "date_added": "13-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b45"
+  },
+  "title": "Day of Destiny",
+  "director": "Akay Mason, Abosi Ogba",
+  "date_added": "13-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-PG",
+  "category": "Children & Family Movies, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b46"
+  },
+  "title": "Born to Play",
+  "director": "Viridiana Lieberman",
+  "date_added": "12-Jul-21",
+  "release_year": "2020",
+  "rating": "TV-MA",
+  "category": "Documentaries, Sports Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b47"
+  },
+  "title": "American Ultra",
+  "director": "Nima Nourizadeh",
+  "date_added": "10-Jul-21",
+  "release_year": "2015",
+  "rating": "R",
+  "category": "Action & Adventure, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b48"
+  },
+  "title": "The Stand-Up",
+  "director": "Daniel Růžička",
+  "date_added": "10-Jul-21",
+  "release_year": "2019",
+  "rating": "TV-MA",
+  "category": "Stand-Up Comedy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b49"
+  },
+  "title": "The Tour",
+  "director": "Juraj Šajmovič",
+  "date_added": "10-Jul-21",
+  "release_year": "2016",
+  "rating": "TV-MA",
+  "category": "Comedies, Documentaries, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b4a"
+  },
+  "title": "Fear Street Part 2: 1978",
+  "director": "Leigh Janiak",
+  "date_added": "09-Jul-21",
+  "release_year": "2021",
+  "rating": "R",
+  "category": "Horror Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b4b"
+  },
+  "title": "Finding Hubby",
+  "director": "Femi D. Ogunsanwo",
+  "date_added": "09-Jul-21",
+  "release_year": "2020",
+  "rating": "TV-14",
+  "category": "Comedies, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b4c"
+  },
+  "title": "How I Became a Superhero",
+  "director": "Douglas Attal",
+  "date_added": "09-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Action & Adventure, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b4d"
+  },
+  "title": "Last Summer",
+  "date_added": "09-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Dramas, International Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b4e"
+  },
+  "title": "Lee Su-geun: The Sense Coach",
+  "director": "Kim Joo-hyung",
+  "date_added": "09-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-G",
+  "category": "Stand-Up Comedy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b4f"
+  },
+  "title": "Lethal Love",
+  "director": "Avi Federgreen",
+  "date_added": "09-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b50"
+  },
+  "title": "Ratchet and Clank",
+  "director": "Jericca Cleland, Kevin Munroe",
+  "date_added": "09-Jul-21",
+  "release_year": "2016",
+  "rating": "PG",
+  "category": "Children & Family Movies, Comedies, Sci-Fi & Fantasy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b51"
+  },
+  "title": "Back to Q82",
+  "director": "Ahmed Siddiqui",
+  "date_added": "08-Jul-21",
+  "release_year": "2017",
+  "rating": "TV-14",
+  "category": "Comedies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b52"
+  },
+  "title": "Home Again",
+  "director": "Hallie Meyers-Shyer",
+  "date_added": "08-Jul-21",
+  "release_year": "2017",
+  "rating": "PG-13",
+  "category": "Comedies, Dramas, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b53"
+  },
+  "title": "Midnight Sun",
+  "director": "Scott Speer",
+  "date_added": "08-Jul-21",
+  "release_year": "2018",
+  "rating": "PG-13",
+  "category": "Dramas, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b54"
+  },
+  "title": "Rock the Kasbah",
+  "director": "Barry Levinson",
+  "date_added": "08-Jul-21",
+  "release_year": "2015",
+  "rating": "R",
+  "category": "Comedies, Music & Musicals"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b55"
+  },
+  "title": "Awon Boyz",
+  "director": "Tolulope Itegboje",
+  "date_added": "07-Jul-21",
+  "release_year": "2019",
+  "rating": "TV-MA",
+  "category": "Documentaries, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b56"
+  },
+  "title": "Brick Mansions",
+  "director": "Camille Delamarre",
+  "date_added": "07-Jul-21",
+  "release_year": "2014",
+  "rating": "PG-13",
+  "category": "Action & Adventure, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b57"
+  },
+  "title": "Clash",
+  "director": "Pascal Atuma",
+  "date_added": "07-Jul-21",
+  "release_year": "2020",
+  "rating": "TV-MA",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b58"
+  },
+  "title": "Major Grom: Plague Doctor",
+  "director": "Oleg Trofim",
+  "date_added": "07-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "Action & Adventure, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b59"
+  },
+  "title": "Mama Drama",
+  "director": "Seyi Babatope",
+  "date_added": "07-Jul-21",
+  "release_year": "2020",
+  "rating": "TV-MA",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b5a"
+  },
+  "title": "Tango With Me",
+  "director": "Mahmood Ali-Balogun",
+  "date_added": "07-Jul-21",
+  "release_year": "2010",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b5b"
+  },
+  "title": "Therapy",
+  "director": "Anurin Nwunembom, Musing Derrick",
+  "date_added": "07-Jul-21",
+  "release_year": "2020",
+  "rating": "TV-PG",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b5c"
+  },
+  "title": "This Little Love Of Mine",
+  "director": "Christine Luby",
+  "date_added": "07-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-G",
+  "category": "International Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b5d"
+  },
+  "title": "Three Thieves",
+  "director": "Udoka Oyeka",
+  "date_added": "07-Jul-21",
+  "release_year": "2019",
+  "rating": "TV-14",
+  "category": "Comedies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b5e"
+  },
+  "title": "A Land Imagined",
+  "director": "Yeo Siew Hua",
+  "date_added": "06-Jul-21",
+  "release_year": "2019",
+  "rating": "TV-MA",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b5f"
+  },
+  "title": "Har Kisse Ke Hisse: Kaamyaab",
+  "director": "Hardik Mehta",
+  "date_added": "06-Jul-21",
+  "release_year": "2020",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b60"
+  },
+  "title": "Rehmataan",
+  "director": "Rajveer Singh Maan, Harpeet Singh",
+  "date_added": "06-Jul-21",
+  "release_year": "2012",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b61"
+  },
+  "title": "Return of the Prodigal Son",
+  "director": "Youssef Chahine",
+  "date_added": "06-Jul-21",
+  "release_year": "1976",
+  "rating": "TV-MA",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b62"
+  },
+  "title": "Rise: Ini Kalilah",
+  "director": "Saw Teong Hin, Nik Amir Mustapha, M.S. Prem Nath",
+  "date_added": "06-Jul-21",
+  "release_year": "2018",
+  "rating": "TV-PG",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b63"
+  },
+  "title": "Si Doel the Movie 2",
+  "director": "Rano Karno",
+  "date_added": "06-Jul-21",
+  "release_year": "2019",
+  "rating": "TV-G",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b64"
+  },
+  "title": "Truckbhar Swapna",
+  "director": "Pramod Pawar",
+  "date_added": "06-Jul-21",
+  "release_year": "2018",
+  "rating": "TV-14",
+  "category": "Comedies, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b65"
+  },
+  "title": "Ujala",
+  "director": "Naresh Saigal",
+  "date_added": "06-Jul-21",
+  "release_year": "1959",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b66"
+  },
+  "title": "Fear Street Part 1: 1994",
+  "director": "Leigh Janiak",
+  "date_added": "02-Jul-21",
+  "release_year": "2021",
+  "rating": "R",
+  "category": "Horror Movies, LGBTQ Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b67"
+  },
+  "title": "Haseen Dillruba",
+  "director": "Vinil Mathew",
+  "date_added": "02-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-MA",
+  "category": "International Movies, Romantic Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b68"
+  },
+  "title": "Holiday on Mars",
+  "director": "Neri Parenti",
+  "date_added": "02-Jul-21",
+  "release_year": "2020",
+  "rating": "TV-MA",
+  "category": "Comedies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b69"
+  },
+  "title": "RattleSnake - The Ahanna Story",
+  "director": "Ramsey Nouah",
+  "date_added": "02-Jul-21",
+  "release_year": "2020",
+  "rating": "TV-MA",
+  "category": "Dramas, International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b6a"
+  },
+  "title": "Snowpiercer",
+  "director": "Bong Joon Ho",
+  "date_added": "02-Jul-21",
+  "release_year": "2013",
+  "rating": "R",
+  "category": "Action & Adventure, Cult Movies, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b6b"
+  },
+  "title": "The 8th Night",
+  "director": "Kim Tae-hyung",
+  "date_added": "02-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Horror Movies, International Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b6c"
+  },
+  "title": "Winchester",
+  "director": "Michael Spierig, Peter Spierig",
+  "date_added": "02-Jul-21",
+  "release_year": "2018",
+  "rating": "PG-13",
+  "category": "Horror Movies, Sci-Fi & Fantasy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b6d"
+  },
+  "title": "6 Bullets",
+  "director": "Ernie Barbarash",
+  "date_added": "01-Jul-21",
+  "release_year": "2012",
+  "rating": "R",
+  "category": "Action & Adventure"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b6e"
+  },
+  "title": "Air Force One",
+  "director": "Wolfgang Petersen",
+  "date_added": "01-Jul-21",
+  "release_year": "1997",
+  "rating": "R",
+  "category": "Action & Adventure"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b6f"
+  },
+  "title": "Audible",
+  "director": "Matt Ogens",
+  "date_added": "01-Jul-21",
+  "release_year": "2021",
+  "rating": "PG-13",
+  "category": "Documentaries, Sports Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b70"
+  },
+  "title": "Austin Powers in Goldmember",
+  "director": "Jay Roach",
+  "date_added": "01-Jul-21",
+  "release_year": "2002",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b71"
+  },
+  "title": "Austin Powers: International Man of Mystery",
+  "director": "Jay Roach",
+  "date_added": "01-Jul-21",
+  "release_year": "1997",
+  "rating": "PG-13",
+  "category": "Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b72"
+  },
+  "title": "Austin Powers: The Spy Who Shagged Me",
+  "director": "Jay Roach",
+  "date_added": "01-Jul-21",
+  "release_year": "1999",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Comedies, Sci-Fi & Fantasy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b73"
+  },
+  "title": "Boogie Nights",
+  "director": "Paul Thomas Anderson",
+  "date_added": "01-Jul-21",
+  "release_year": "1997",
+  "rating": "R",
+  "category": "Comedies, Dramas, Independent Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b74"
+  },
+  "title": "Charlie's Angels",
+  "director": "McG",
+  "date_added": "01-Jul-21",
+  "release_year": "2000",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b75"
+  },
+  "title": "Congo",
+  "director": "Frank Marshall",
+  "date_added": "01-Jul-21",
+  "release_year": "1995",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b76"
+  },
+  "title": "Dennis the Menace",
+  "director": "Nick Castle",
+  "date_added": "01-Jul-21",
+  "release_year": "1993",
+  "rating": "PG",
+  "category": "Children & Family Movies, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b77"
+  },
+  "title": "Dreamy Eyes",
+  "director": "Victor Vu",
+  "date_added": "01-Jul-21",
+  "release_year": "2019",
+  "rating": "TV-14",
+  "category": "Dramas, International Movies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b78"
+  },
+  "title": "Dynasty Warriors",
+  "director": "Chow Hin Yeung Roy",
+  "date_added": "01-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Action & Adventure, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b79"
+  },
+  "title": "Hampstead",
+  "director": "Joel Hopkins",
+  "date_added": "01-Jul-21",
+  "release_year": "2019",
+  "rating": "PG-13",
+  "category": "Comedies, Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b7a"
+  },
+  "title": "Kung Fu Panda",
+  "director": "John Stevenson, Mark Osborne",
+  "date_added": "01-Jul-21",
+  "release_year": "2008",
+  "rating": "PG",
+  "category": "Children & Family Movies, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b7b"
+  },
+  "title": "Kung Fu Panda 2",
+  "director": "Jennifer Yuh Nelson",
+  "date_added": "01-Jul-21",
+  "release_year": "2011",
+  "rating": "PG",
+  "category": "Children & Family Movies, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b7c"
+  },
+  "title": "Life as We Know It",
+  "director": "Greg Berlanti",
+  "date_added": "01-Jul-21",
+  "release_year": "2010",
+  "rating": "PG-13",
+  "category": "Comedies, Dramas, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b7d"
+  },
+  "title": "Mary Magdalene",
+  "director": "Garth Davis",
+  "date_added": "01-Jul-21",
+  "release_year": "2019",
+  "rating": "R",
+  "category": "Dramas, Faith & Spirituality, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b7e"
+  },
+  "title": "Memoirs of a Geisha",
+  "director": "Rob Marshall",
+  "date_added": "01-Jul-21",
+  "release_year": "2005",
+  "rating": "PG-13",
+  "category": "Dramas, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b7f"
+  },
+  "title": "Midnight Run",
+  "director": "Martin Brest",
+  "date_added": "01-Jul-21",
+  "release_year": "1988",
+  "rating": "R",
+  "category": "Action & Adventure, Classic Movies, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b80"
+  },
+  "title": "Mobile Suit Gundam Hathaway",
+  "director": "Shuko Murase",
+  "date_added": "01-Jul-21",
+  "release_year": "2021",
+  "rating": "TV-14",
+  "category": "Action & Adventure, Anime Features, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b81"
+  },
+  "title": "Mortal Kombat",
+  "director": "Paul W.S. Anderson",
+  "date_added": "01-Jul-21",
+  "release_year": "1995",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Sci-Fi & Fantasy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b82"
+  },
+  "title": "Mother's Day",
+  "director": "Garry Marshall",
+  "date_added": "01-Jul-21",
+  "release_year": "2016",
+  "rating": "PG-13",
+  "category": "Comedies, Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b83"
+  },
+  "title": "No Strings Attached",
+  "director": "Ivan Reitman",
+  "date_added": "01-Jul-21",
+  "release_year": "2011",
+  "rating": "R",
+  "category": "Comedies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b84"
+  },
+  "title": "Not Another Teen Movie",
+  "director": "Joel Gallen",
+  "date_added": "01-Jul-21",
+  "release_year": "2001",
+  "rating": "R",
+  "category": "Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b85"
+  },
+  "title": "Ophelia",
+  "director": "Claire McCarthy",
+  "date_added": "01-Jul-21",
+  "release_year": "2018",
+  "rating": "PG-13",
+  "category": "Dramas, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b86"
+  },
+  "title": "Pet Sematary 2",
+  "director": "Mary Lambert",
+  "date_added": "01-Jul-21",
+  "release_year": "1992",
+  "rating": "R",
+  "category": "Horror Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b87"
+  },
+  "title": "Red Joan",
+  "director": "Trevor Nunn",
+  "date_added": "01-Jul-21",
+  "release_year": "2019",
+  "rating": "R",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b88"
+  },
+  "title": "Seven Pounds",
+  "director": "Gabriele Muccino",
+  "date_added": "01-Jul-21",
+  "release_year": "2008",
+  "rating": "PG-13",
+  "category": "Dramas, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b89"
+  },
+  "title": "She's Out of My League",
+  "director": "Jim Field Smith",
+  "date_added": "01-Jul-21",
+  "release_year": "2010",
+  "rating": "R",
+  "category": "Comedies, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b8a"
+  },
+  "title": "Snow Day",
+  "director": "Chris Koch",
+  "date_added": "01-Jul-21",
+  "release_year": "2000",
+  "rating": "PG",
+  "category": "Children & Family Movies, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b8b"
+  },
+  "title": "Star Trek",
+  "director": "J.J. Abrams",
+  "date_added": "01-Jul-21",
+  "release_year": "2009",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Sci-Fi & Fantasy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b8c"
+  },
+  "title": "Stuart Little",
+  "director": "Rob Minkoff",
+  "date_added": "01-Jul-21",
+  "release_year": "1999",
+  "rating": "PG",
+  "category": "Children & Family Movies, Comedies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b8d"
+  },
+  "title": "Sword of Trust",
+  "director": "Lynn Shelton",
+  "date_added": "01-Jul-21",
+  "release_year": "2019",
+  "rating": "R",
+  "category": "Comedies, Dramas, Independent Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b8e"
+  },
+  "title": "Talladega Nights: The Ballad of Ricky Bobby",
+  "director": "Adam McKay",
+  "date_added": "01-Jul-21",
+  "release_year": "2006",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Comedies, Sports Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b8f"
+  },
+  "title": "The American",
+  "director": "Anton Corbijn",
+  "date_added": "01-Jul-21",
+  "release_year": "2010",
+  "rating": "R",
+  "category": "Dramas, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b90"
+  },
+  "title": "The Best of Enemies",
+  "director": "Robin Bissell",
+  "date_added": "01-Jul-21",
+  "release_year": "2019",
+  "rating": "PG-13",
+  "category": "Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b91"
+  },
+  "title": "The Game",
+  "director": "David Fincher",
+  "date_added": "01-Jul-21",
+  "release_year": "1997",
+  "rating": "R",
+  "category": "Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b92"
+  },
+  "title": "The Karate Kid",
+  "director": "John G. Avildsen",
+  "date_added": "01-Jul-21",
+  "release_year": "1984",
+  "rating": "PG",
+  "category": "Action & Adventure, Children & Family Movies, Classic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b93"
+  },
+  "title": "The Karate Kid Part II",
+  "director": "John G. Avildsen",
+  "date_added": "01-Jul-21",
+  "release_year": "1986",
+  "rating": "PG",
+  "category": "Action & Adventure, Children & Family Movies, Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b94"
+  },
+  "title": "The Karate Kid Part III",
+  "director": "John G. Avildsen",
+  "date_added": "01-Jul-21",
+  "release_year": "1989",
+  "rating": "PG",
+  "category": "Children & Family Movies, Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b95"
+  },
+  "title": "The Life of David Gale",
+  "director": "Alan Parker",
+  "date_added": "01-Jul-21",
+  "release_year": "2003",
+  "rating": "R",
+  "category": "Dramas"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b96"
+  },
+  "title": "The Long Riders",
+  "director": "Walter Hill",
+  "date_added": "01-Jul-21",
+  "release_year": "1980",
+  "rating": "R",
+  "category": "Action & Adventure"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b97"
+  },
+  "title": "The Queen",
+  "director": "Stephen Frears",
+  "date_added": "01-Jul-21",
+  "release_year": "2006",
+  "rating": "PG-13",
+  "category": "Dramas, International Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b98"
+  },
+  "title": "The Strangers",
+  "director": "Bryan Bertino",
+  "date_added": "01-Jul-21",
+  "release_year": "2008",
+  "rating": "R",
+  "category": "Horror Movies, Thrillers"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b99"
+  },
+  "title": "The Sum of All Fears",
+  "director": "Phil Alden Robinson",
+  "date_added": "01-Jul-21",
+  "release_year": "2002",
+  "rating": "PG-13",
+  "category": "Action & Adventure"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b9a"
+  },
+  "title": "The Tourist",
+  "director": "Florian Henckel von Donnersmarck",
+  "date_added": "01-Jul-21",
+  "release_year": "2010",
+  "rating": "PG-13",
+  "category": "Action & Adventure, Romantic Movies"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b9b"
+  },
+  "title": "Underworld",
+  "director": "Len Wiseman",
+  "date_added": "01-Jul-21",
+  "release_year": "2003",
+  "rating": "R",
+  "category": "Action & Adventure, Horror Movies, Sci-Fi & Fantasy"
+},{
+  "_id": {
+    "$oid": "61ccc546aa8d438faa312b9c"
+  },
+  "title": "Underworld: Awakening",
+  "director": "Måns Mårlind, Björn Stein",
+  "date_added": "01-Jul-21",
+  "release_year": "2012",
+  "rating": "R",
+  "category": "Action & Adventure, Horror Movies, Sci-Fi & Fantasy"
+}]
